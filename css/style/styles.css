@@ -1,0 +1,349 @@
+#logoLocation{
+	width: 60%;
+	margin-top: 20px;
+}
+#logo_bernardins{
+	float: right;
+	width: 10%;
+	margin-top: -75px;
+	margin-bottom: -39px;
+}
+.ctaBox h1{
+	width: 81%;
+}
+.ctaBox a{
+	float: none;
+	margin-left: 30px;
+}
+#footerLogo{
+	width: 24%;
+}
+@media (max-width: 768px){
+	#top{
+		/*display: none;*/
+	}
+}
+.plus_espaces{
+	margin-top: 20px
+}
+.plus_salles{
+	margin-top: 50px;
+}
+#clefdeslieux{
+	text-align: center;
+}
+
+@media (max-width: 445px){
+	.title_responsive{
+		font-size: 24px;
+	}
+}
+#telechargement{
+	margin-top: 60px;
+}
+
+#lieux{
+	margin-top: 100px;
+}
+.logotrain{
+	width: 25px;
+}
+
+.acces{
+	margin-top: 20px;
+}
+.acces p:nth-child(1){
+	text-align: center;
+}
+
+.nav>li>a{
+	padding: 0px 10px;
+}
+
+/* slide */
+.slide_top{
+	background-position: 0% 0px;
+	padding-top: 44px;
+	height: 200px;
+}
+#first_slide{
+	background-image: url('../../images/ext-nuit.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#second_slide{
+	background-image: url('../../images/nef.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#third_slide{
+	background-image: url('../../images/bandeau-audito.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+@media (min-width: 1300px){
+	.slide_top{
+		padding-top: 70px;
+		height: 550px;
+	}
+	#top h1{
+		font-size: 40px;
+	}
+}
+@media (min-width: 1200px){
+	#top h1{
+		font-size: 80px;
+	}
+}
+@media (min-width: 992px){
+	#top h1{
+		font-size: 50px;
+	}
+}
+@media (max-width: 592px){
+	.slide_top{
+		background-size: 100%;
+	}
+}
+#top h1{
+	color: white;
+	margin-bottom: 11px;
+	font-weight: 300;
+	font-size: 32px;
+	line-height: 1em;
+	text-transform: uppercase;
+	padding: 0;
+	text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2);
+	width: 100%;
+	text-align: center;
+	display: inline-block;
+}
+.slide_size{
+	max-height: 600px;
+}
+
+.carousel-caption h3{
+	margin-bottom: 10%;
+	color: white;
+	font-size: 25px;
+	font-weight: 400;
+}
+
+/* slide */
+
+/* témoignage */ 
+.name_temoignage{
+	font-size: 12px;
+	margin-top: -15px;
+	border-bottom: 1px solid #521051;
+	padding-bottom: 10px;
+}
+
+.ref{
+	background-color: #521051;
+	border: 1px solid black;
+}
+
+.ref p{
+	color: white;
+}
+@media (max-width: 500px){
+	#title_about{
+		font-size: 25px;
+	}
+}
+
+#title_ref{
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	color: white;
+}
+
+/* témoignage */
+
+/* Mécenat */
+#mecenat{
+	float: left;
+	margin-bottom: 15px;
+}
+.parrainage{
+	margin-top: 100px;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	color: black; 
+}
+/* Mécenat */
+
+/* espaces */
+.block_espaces{
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+.detail_espaces{
+	margin-top: 46px;
+}
+.more_spaces h4{
+	text-align: center;
+}
+.titre_espaces{
+	margin-top: 45px;
+	margin-bottom: -35px;
+	font-size: 15px;
+}
+.more_spaces .row{
+	margin-top: 25px;
+}
+@media (max-width: 470px){
+	#works h1{
+		font-size: 25px;
+	}
+}
+.img_special{
+	width: 78%;
+}
+.img_special2{
+	width: 89%;
+}
+.img_special3{
+	width: 125%;
+	margin-left: -60px;
+}
+.modif_icon{
+	margin-left: 20px;
+}
+.second_etage{
+	margin-bottom: 100px;
+}
+.rdc{
+	margin-bottom: 100px;
+}
+#telechargement{
+	text-align: center;
+	margin-top: 100px;
+}
+.maskmedia{
+	margin-left: -60px;
+	width: 118%;
+}
+.interdiction{
+	text-align: center;
+	margin-bottom: 50px;
+}
+.p_2e_etage{
+	margin-top: 55px;
+	margin-bottom: 30px;
+}
+
+.more_spaces span{
+	margin-top: 30px;
+}
+.lien_news{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 23%;
+}
+/* espaces */ 
+/* Téléchargement */
+
+.docs{
+	margin-bottom: 100px;
+}
+.download span{
+	margin-top: 30px;
+}
+
+/* Téléchargement */
+
+/* News */
+.photo_news{
+	float: left;
+	margin-right: 10px;
+}
+.block_news{
+	margin-bottom: 30px;
+}
+.block_news h2{
+	margin-top: 10px;
+}
+.title_block{
+	text-align: center;
+	margin-bottom: 30px;
+	margin-top: 15px;
+}
+.block_news_nlr{
+	margin-bottom: 30px;
+	background-color: #521051;
+	color: white;
+}
+.block_news_nlr h2{
+	margin-top: 10px;
+	color: white;
+}
+.sous_titre{
+	font-size: 15px;
+	color: white;
+}
+.lien-college{
+	float: right;
+	text-align: right;
+	margin-bottom: 5px;
+}
+
+/*taille photo*/
+#college_coulisse{
+	width: 30%;
+	float: left;
+}
+#hammadouche{
+	width: 20%;
+	float: right;
+}
+#image-g, #nef{
+	width: 31%;
+}
+/*taille photo*/
+
+
+
+/* News */
+
+.form_cont{
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: 15px;
+}
+
+.contact_info{
+	background-color: #521051;
+	color: white;
+	text-align: center;
+	height: 215px;
+	padding-top: 60px;
+}
+
+#mailto{
+	color: white;
+}
+#more{
+	margin-right: -4px;
+}
+#submit{
+	width: 293px;
+}
+.bouton_contact{
+	text-align: right;
+}
+
+#contactSlice{
+	padding-top: 0px;
+}
+#team{
+	margin-bottom: -40px;
+}
+
+.footerWidget p{
+	margin-left: 11px;
+}

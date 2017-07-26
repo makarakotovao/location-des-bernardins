@@ -1,0 +1,18 @@
+HTTrack3.48-10+htsswf+htsjava launched on Thu, 05 Jun 2014 10:34:09 at http://www.location-des-bernardins.fr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" http://www.location-des-bernardins.fr/ -O1 "C:\TRAVAIL\Cave\Vieux site location\location bernardins" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:34:10	Warning: 	Note: due to www.location-des-bernardins.fr remote robots.txt rules, links beginning with these path will be forbidden: /administrator/, /cache/, /components/, /images/, /includes/, /installation/, /language/, /libraries/, /media/, /modules/, /plugins/, /templates/, /tmp/, /xmlrpc/ (see in the options to disable this)
+10:34:25	Warning: 	Link www.location-des-bernardins.fr/index.php?view=article&id=1:accueil&tmpl=component&print=1&layout=default&page= not scanned (follow robots meta tag)
+10:34:26	Warning: 	Link www.location-des-bernardins.fr/index.php?view=article&id=2%3Ales-espaces&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=2 not scanned (follow robots meta tag)
+10:34:26	Warning: 	Link www.location-des-bernardins.fr/index.php?view=article&id=3%3Atypes-de-manifestations&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=3 not scanned (follow robots meta tag)
+10:34:26	Warning: 	Link www.location-des-bernardins.fr/index.php?view=article&id=4%3Aune-equipe-dediee&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=4 not scanned (follow robots meta tag)
+10:34:26	Warning: 	Link www.location-des-bernardins.fr/index.php?view=article&id=8%3Aa-telecharger&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=8 not scanned (follow robots meta tag)
+10:34:26	Warning: 	Link www.location-des-bernardins.fr/index.php?view=article&id=5%3Amecenat-parrainage&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=5 not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.48-10 mirror complete in 18 seconds : 29 links scanned, 28 files written (498943 bytes overall) [514586 bytes received at 28588 bytes/sec], 5.8 requests per connection
+(No errors, 7 warnings, 0 messages)

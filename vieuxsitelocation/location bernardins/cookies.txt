@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.location-des-bernardins.fr	TRUE	/	FALSE	1999999999	60gpBAK	R1224191420
+www.location-des-bernardins.fr	TRUE	/	FALSE	1999999999	92b6bbc681d29340417807d8732c6bbe	daadb48e23c9a0955b471aaefb08a214
+www.location-des-bernardins.fr	TRUE	/	FALSE	1999999999	60gp	R4109595910
+
