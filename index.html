@@ -730,21 +730,11 @@
 														<input type="text" class="form-control objt" name="objet" id="objet" placeholder="Objet de votre manifestation" title="Objet de votre manifestation"/>
 
 													</div>
-
-
 												</div>
-												
-
 
 										<div class="col-md-8 col-md-offset-4 bouton_contact">
 
 											<div class="result"></div>
-
-	
-											<button name="more" type="button" class="btn btn-sm" id="more"><i class="glyphicon glyphicon-plus"></i> Nous interroger plus précisément</button>
-
-											<br>
-											<br>
 
 											<button name="submit" type="submit" class="btn btn-sm" id="submit"><i class="glyphicon glyphicon-ok"></i> Envoyer une demande simple</button>
 
@@ -797,7 +787,7 @@
 
 								<div class="col-sm-8" data-nekoanim="fadeInUp" data-nekodelay="500">
 
-									<p>Pour donner plus de sens à votre événement et soutenir activement le projet des Bernardins, transformez votre contrat de location en convention de partenariat.</p>
+									<p>Pour donner plus de sens à votre événement et soutenir activement le projet des Bernardins, transforme votre contrat de location en convention de partenariat.</p>
 
 								</div>
 
@@ -928,46 +918,11 @@
 		<script type="text/javascript" src="js-plugin/owl.carousel/owl-carousel/owl.carousel.min.js"></script>
 
 
-
-
-
 		<!-- Custom  -->
 
 		<script type="text/javascript" src="js/custom.js"></script>
 
        	<script type="text/javascript" src="js/GogleAnalyticsObject.js"></script>  
-
-
-       	<script>
-								jQuery(document).ready(function(){
-							        jQuery('.more_info').hide();
-							        jQuery('#more').click(function(){
-
-
-							            if ($('.date').prop('required')){
-							            	jQuery('.date').prop('required', false);
-							            	jQuery('.nmb_prs').prop('required', false);
-								            jQuery('.profil_invit').prop('required', false);
-								            jQuery('.objt').prop('required', false);
-								            $('#submit').html('<i class="glyphicon glyphicon-ok"></i> Envoyer une demande simple');
-							            }
-							            else{
-								            jQuery('.date').prop('required', true);
-								            jQuery('.nmb_prs').prop('required', true);
-								            jQuery('.profil_invit').prop('required', true);
-								            jQuery('.objt').prop('required', true);
-								            $('#submit').html('<i class="glyphicon glyphicon-ok"></i> Envoyer ma demande');
-							            }
-
-							            jQuery('.more_info').toggle(400);
-							            return false;
-							        
-
-							        });
-							    });
-		</script>
-
-        
 
 	</body>
 
