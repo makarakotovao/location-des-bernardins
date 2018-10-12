@@ -122,7 +122,7 @@
 							<style scoped>
             						@media (min-width: 768px) {
                 					.navbar-header { 
-                   					 width:417px;
+                   					 width:523px;
                										 }
            													 }
        						 </style>
@@ -142,10 +142,6 @@
 
 									<li><a href="#espaces"><i class="icon-comment"></i>Espaces</a> </li>
 									
-									<li><a href="manifestations.php"><img class="mx-auto d-block" id="icon-typologie" src="images/college/Typologie_icone.png" 
-									style="width: 23px;margin-left: 26px;margin-top: 17px;margin-bottom: 6px;">
-									<br>Typologie</a> </li>
-
 									<li><a href="temoignages.html"><i class="icon-user"></i>Références</a> </li>
 
 									<li><a href="#team"><i class="icon-users"></i>Equipe</a> </li>
@@ -378,13 +374,13 @@
 
 									<div class="iconLinks"> 
 
-										<a href="espaces.php" title="Plus d'espaces" ><i class="icon-plus iconRounded iconBig"></i><span>Espaces</span></a> 
+										<a href="espaces.html" title="Plus d'espaces" ><i class="icon-plus iconRounded iconBig"></i><span>Espaces</span></a> 
 
 									</div>
 
 								</div>
 
-								<a href="espaces.php">
+								<a href="espaces.html">
 									<section class="newsText color4">
 
 										<p>Espaces de réception de 30 à 850 personnes :<br> Nef, cellier, …</p>
@@ -411,13 +407,13 @@
 
 									<div class="iconLinks"> 
 
-										<a href="espaces.php" title="Plus d'espaces" ><i class="icon-plus iconRounded iconBig"></i><span>Espaces</span></a> 
+										<a href="espaces.html" title="Plus d'espaces" ><i class="icon-plus iconRounded iconBig"></i><span>Espaces</span></a> 
 
 									</div>
 
 								</div>
 
-								<a href="espaces.php">
+								<a href="espaces.html">
 									<section class="newsText color4">
 
 										<p>Auditoriums de 110 à 230 personnes</p><br>
@@ -445,13 +441,13 @@
 
 									<div class="iconLinks"> 
 
-										<a href="espaces.php" title="Plus d'espaces" ><i class="icon-plus iconRounded iconBig"></i><span>Espaces</span></a> 
+										<a href="espaces.html" title="Plus d'espaces" ><i class="icon-plus iconRounded iconBig"></i><span>Espaces</span></a> 
 
 									</div>
 
 								</div>
 
-								<a href="espaces.php">
+								<a href="espaces.html">
 									<section class="newsText color4">
 
 										<p>Salles de travail modulables selon vos besoins</p><br>
@@ -467,9 +463,15 @@
 
 							<div class="col-md-7 col-md-offset-5 plus_espaces" data-nekoanim="fadeInUp" data-nekodelay="500">
 
-									<a href="espaces.php" class="btn btn-sm"><i class="icon-right-open-mini"></i>Plus d'espaces</a>
+									<a href="espaces.html" class="btn btn-sm"><i class="icon-right-open-mini"></i>Plus d'espaces</a>
 
 							</div>
+
+
+
+
+
+
 
 						</div>
 
@@ -640,15 +642,12 @@
 
 										</div>
 
-												<div class="col-sm-4 more_info">
-
-													<p>Pour vous répondre précisément et rapidement, nous avons besoin de certaines informations <i class="glyphicon glyphicon-arrow-right"></i></p>
-										
+												<div class="col-sm-4">
 												</div>
 
 												<div class="col-sm-4 more_info"> 
 
-													<p>Date de votre manifestation par ordre de priorité :</p>
+													<p><strong>Date de votre manifestation par <br>ordre de priorité :</strong></p>
 
 													<div class="form-group">
 
@@ -728,19 +727,11 @@
 														<input type="text" class="form-control objt" name="objet" id="objet" placeholder="Objet de votre manifestation" title="Objet de votre manifestation"/>
 
 													</div>
-
 												</div>
-
 
 										<div class="col-md-8 col-md-offset-4 bouton_contact">
 
 											<div class="result"></div>
-
-	
-											<button name="more" type="button" class="btn btn-sm" id="more"><i class="glyphicon glyphicon-plus"></i> Nous interroger plus précisément</button>
-
-											<br>
-											<br>
 
 											<button name="submit" type="submit" class="btn btn-sm" id="submit"><i class="glyphicon glyphicon-ok"></i> Envoyer une demande simple</button>
 
@@ -793,7 +784,7 @@
 
 								<div class="col-sm-8" data-nekoanim="fadeInUp" data-nekodelay="500">
 
-									<p>Pour donner plus de sens à votre événement et soutenir activement le projet des Bernardins, transformez votre contrat de location en convention de partenariat.</p>
+									<p>Pour donner plus de sens à votre événement et soutenir activement le projet des Bernardins, transforme votre contrat de location en convention de partenariat.</p>
 
 								</div>
 
@@ -924,46 +915,11 @@
 		<script type="text/javascript" src="js-plugin/owl.carousel/owl-carousel/owl.carousel.min.js"></script>
 
 
-
-
-
 		<!-- Custom  -->
 
 		<script type="text/javascript" src="js/custom.js"></script>
 
        	<script type="text/javascript" src="js/GogleAnalyticsObject.js"></script>  
-
-
-       	<script>
-								jQuery(document).ready(function(){
-							        jQuery('.more_info').hide();
-							        jQuery('#more').click(function(){
-
-
-							            if ($('.date').prop('required')){
-							            	jQuery('.date').prop('required', false);
-							            	jQuery('.nmb_prs').prop('required', false);
-								            jQuery('.profil_invit').prop('required', false);
-								            jQuery('.objt').prop('required', false);
-								            $('#submit').html('<i class="glyphicon glyphicon-ok"></i> Envoyer une demande simple');
-							            }
-							            else{
-								            jQuery('.date').prop('required', true);
-								            jQuery('.nmb_prs').prop('required', true);
-								            jQuery('.profil_invit').prop('required', true);
-								            jQuery('.objt').prop('required', true);
-								            $('#submit').html('<i class="glyphicon glyphicon-ok"></i> Envoyer ma demande');
-							            }
-
-							            jQuery('.more_info').toggle(400);
-							            return false;
-							        
-
-							        });
-							    });
-		</script>
-
-        
 
 	</body>
 
