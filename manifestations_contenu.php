@@ -50,7 +50,7 @@
 							</div>
 							<div class="col-sm-12 interdiction">
 								
-								<p><strong>Mais ne reçoit pas : <br>- Les réceptions de particuliers, <br>- Les défilés de mode, <br>- Les tournages<br>- Les conférences de presse.</strong></p>
+								<p><strong>Mais ne reçoit pas : <br>- Les réceptions de particuliers, <br>- Les défilés de mode, <br>- Les conférences de presse,<br>- Les tournages.</strong></p>
 								
 							</div>
 							<nav id="filter" class="col-md-12 text-center">
