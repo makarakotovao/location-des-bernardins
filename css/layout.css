@@ -597,6 +597,14 @@ hr {
 		margin-right: 10px;
 		font-size: 18px;
 	}
+
+	#Typologie_icone {
+    margin-left: 6px !important;
+    margin-right: 10px !important;
+    display: inline !important;
+    margin-bottom: -5px !important;
+    margin-top: -18px !important;
+	}
 }
 
 @media(min-width:768px){
