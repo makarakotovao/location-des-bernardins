@@ -717,3 +717,59 @@
 							</div>
 						</div>
 					</section>
+
+		
+
+		<script type="text/javascript" src="js-plugin/respond/respond.min.js"></script>
+
+		<script type="text/javascript" src="js-plugin/jquery/1.8.3/jquery.min.js"></script>
+
+		<script type="text/javascript" src="js-plugin/jquery-ui/jquery-ui-1.8.23.custom.min.js"></script>
+
+		<!-- third party plugins  -->
+
+		<script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
+
+		<script type="text/javascript" src="js-plugin/easing/jquery.easing.1.3.js"></script>
+
+
+
+		<script type="text/javascript" src="js-plugin/flexslider/jquery.flexslider-min.js"></script>
+
+
+
+		<script type="text/javascript" src="js-plugin/isotope/jquery.isotope.min.js"></script>
+
+		<script type="text/javascript" src="js-plugin/neko-contact-ajax-plugin/js/jquery.form.js"></script>
+
+		<script type="text/javascript" src="js-plugin/neko-contact-ajax-plugin/js/jquery.validate.min.js"></script>
+
+		<script type="text/javascript" src="js-plugin/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+		<script type="text/javascript" src="js-plugin/parallax/js/jquery.scrollTo.2.0.0-min.js"></script>
+
+		<script type="text/javascript" src="js-plugin/parallax/js/jquery.localscroll-1.2.7-min.js"></script>
+
+		<script type="text/javascript" src="js-plugin/parallax/js/jquery.stellar.min.js"></script>
+
+		<!-- appear -->
+
+		<script type="text/javascript" src="js-plugin/appear/jquery.appear.js"></script>
+
+		<script type="text/javascript" src="js-plugin/pageSlide/jquery.pageslide-custom.js"></script>
+
+		<script type="text/javascript" src="js-plugin/jquery.sharrre-1.3.4/jquery.sharrre-1.3.4.min.js"></script>
+
+
+
+		<script type="text/javascript" src="js-plugin/owl.carousel/owl-carousel/owl.carousel.min.js"></script>
+
+
+		<!-- Custom  -->
+
+		<script type="text/javascript" src="js/custom.js"></script>
+
+       	<script type="text/javascript" src="js/GogleAnalyticsObject.js"></script>  
+
+
+
