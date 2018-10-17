@@ -13,7 +13,7 @@
 }
 
 #logoLocation{
-	width: 90%;
+	width: 60%;
 	margin-top: 20px;
 }
 #logo_bernardins{
@@ -36,6 +36,10 @@
 	#top{
 		/*display: none;*/
 	}
+
+  #scrollTarget {
+    overflow-y: hidden;
+  }
 }
 .plus_espaces{
 	margin-top: 20px
@@ -108,6 +112,11 @@
 	#top h1{
 		font-size: 80px;
 	}
+}
+@media (max-width: 991px){
+  #scrollTarget .navbar-nav > li > a {
+    font-size: 0.9em;
+  }
 }
 @media (min-width: 992px){
 	#top h1{
