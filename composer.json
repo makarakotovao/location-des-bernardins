@@ -1,6 +1,10 @@
 {
     "name": "makarakotovao/location-des-bernardins",
     "type": "project",
+    "config": {
+        "vendor-dir": "vendor"
+    },
+    "prefer-stable": true,
     "require": {
         "mailgun/mailgun-php": "^2.3",
         "php-http/guzzle6-adapter": "^1.1",
