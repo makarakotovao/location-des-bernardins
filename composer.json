@@ -1,4 +1,6 @@
 {
+    "name": "makarakotovao/location-des-bernardins",
+    "type": "project",
     "require": {
         "mailgun/mailgun-php": "^2.3",
         "php-http/guzzle6-adapter": "^1.1",
