@@ -592,10 +592,28 @@ hr {
 
 /*** MEDIA QUERIES ***/
 
+@media (min-width: 770px) and (max-width: 1200px) {
+	.navbar-header{
+		width: 318px !important;
+	}
+}
+
 @media(max-width:767px){
 	.navbar-nav > li > a i {
 		margin-right: 10px;
 		font-size: 18px;
+	}
+
+	#logoLocation {
+    	width: 58% !important;
+    }	
+
+	#Typologie_icone {
+    margin-left: 6px !important;
+    margin-right: 10px !important;
+    display: inline !important;
+    margin-bottom: -5px !important;
+    margin-top: -18px !important;
 	}
 }
 
