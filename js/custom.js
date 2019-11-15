@@ -2090,6 +2090,7 @@ function animateTxt(curSlide, action){
 
 function appendBootstrap() {
 
+  /*
     "use strict";
 
     var script = document.createElement("script");
@@ -2099,6 +2100,7 @@ function appendBootstrap() {
     script.src = "http://maps.google.com/maps/api/js?sensor=false&callback=initialize";
 
     document.body.appendChild(script);
+    */
 
 }    
 

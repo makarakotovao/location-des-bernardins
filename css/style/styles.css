@@ -282,8 +282,23 @@
 /* News */
 .photo_news{
 	float: left;
-	margin-right: 10px;
+	margin: 10px 10px 10px 0px;
+  max-width: 600px;
+  width: 30%;
 }
+
+@media(max-width: 600px) {
+  .block_news_nlr {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .texte_news p {
+    clear: both;
+    margin: 0px 10px 0px 10px;
+  }
+}
+
 .block_news{
 	margin-bottom: 30px;
 }

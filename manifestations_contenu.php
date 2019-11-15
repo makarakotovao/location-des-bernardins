@@ -46,11 +46,11 @@
 						<div class="row">
 							<div class="col-sm-12">
 								<h1>Types de manifestations</h1>
-								<h2 class="subTitle">Le Collège des Bernardins accueille tout type de manifestations professionnelles (conférence, séminaire, réunion, colloque, déjeuner, petit-déjeuner-débat, dîner et cocktail...)</h2>
+								<h2 class="subTitle">Le Collège des Bernardins accueille certains types de manifestations professionnelles (conférence, séminaire, réunion, colloque, déjeuner, petit-déjeuner-débat, dîner et cocktail...)</h2>
 							</div>
 							<div class="col-sm-12 interdiction">
 								
-								<p><strong>Mais ne reçoit pas : <br>- Les réceptions de particuliers, <br>- Les défilés de mode, <br>- Les conférences de presse,<br>- Les tournages.</strong></p>
+								<p><strong>Mais ne reçoit pas : <br>- Les réceptions de particuliers, <br>- Les défilés de mode, <br>- Les conférences de presse,<br>- Les tournages et shootings.</strong></p>
 								
 							</div>
 							<nav id="filter" class="col-md-12 text-center">
@@ -64,6 +64,60 @@
 							</nav>
 
 							<div class="portfolio-items  isotopeWrapper clearfix imgHover" id="3">
+								<article class="col-sm-4 isotopeItem cocktail">
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/gueridon-nef.jpg" class="img-responsive">
+									</section>
+									<div class="mediaHover">
+										<div class="mask"></div>
+										<div class="iconLinks"> 
+											<a href="images/college/type_de_manif/gueridon-nef.jpg" class="image-link" title="Zoom">
+												<i class="icon-search iconRounded iconBig"></i>
+												<span>zoom</span>
+											</a> 
+										</div>
+									</div>
+									<section class="boxContent">
+										<h3>Guéridons dans la Nef</h3>
+									</section>
+								</article>
+
+								<article class="col-sm-4 isotopeItem cocktail">
+									<section class="imgWrapper"> 
+										<img alt="" src="images/college/type_de_manif/cocktails/cocktail-nef.jpg" class="img-responsive"> 
+									</section>
+									<div class="mediaHover">
+										<div class="mask"></div>
+										<div class="iconLinks">
+											<a href="images/college/type_de_manif/cocktails/cocktail-nef.jpg" class="image-link" title="Zoom" >
+												<i class="icon-search iconRounded iconBig"></i>
+												<span>zoom</span>
+											</a>
+										</div>
+									</div>
+									<section class="boxContent">
+										<h3>Cocktail dans la Nef</h3>
+									</section>
+								</article>
+
+								<article class="col-sm-4 isotopeItem diner">
+									<section class="imgWrapper"> 
+										<img alt="" src="images/college/type_de_manif/diners-dej/diner-nef.jpg" class="img-responsive"> 
+									</section>
+									<div class="mediaHover">
+										<div class="mask"></div>
+										<div class="iconLinks">
+											<a href="images/college/type_de_manif/diners-dej/diner-nef.jpg" class="image-link" title="Zoom">
+												<i class="icon-search iconRounded iconBig"></i>
+												<span>zoom</span>
+											</a>
+										</div>
+									</div>
+									<section class="boxContent">
+										<h3>Diner dans la Nef</h3>
+									</section>
+								</article>
+
 								<article class="col-sm-4 isotopeItem cocktail">
 									<section class="imgWrapper">
 										<img alt="" src="images/college/type_de_manif/cellier-table-unique.jpg" class="img-responsive">
@@ -84,12 +138,12 @@
 
 								<article class="col-sm-4 isotopeItem convention">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/conventions/afd_53.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/conventions/afd_53.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/conventions/afd_53.jpg" class="image-link" title="Zoom" >
+											<a href="images/college/type_de_manif/conventions/afd_53.jpg" class="image-link" title="Zoom" >
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -132,18 +186,18 @@
 										</div>
 									</div>
 									<section class="boxContent">
-										<h3>Petit Auditorium</h3>
+										<h3>Cocktail dans le Petit Auditorium</h3>
 									</section>
 								</article>
 
 								<article class="col-sm-4 isotopeItem reunion">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/reunions_travail/20090121_diversElise_018.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/reunions_travail/20090121_diversElise_018.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/reunions_travail/20090121_diversElise_018.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/reunions_travail/20090121_diversElise_018.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -156,12 +210,12 @@
 
 								<article class="col-sm-4 isotopeItem convention">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/conventions/Cope_004.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/conventions/Cope_004.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/conventions/Cope_004.jpg" class="image-link" title="Zoom" >
+											<a href="images/college/type_de_manif/conventions/Cope_004.jpg" class="image-link" title="Zoom" >
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -174,12 +228,12 @@
 
 								<article class="col-sm-4 isotopeItem convention">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/conventions/PA_cote.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/cocktail_PA.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/conventions/PA_cote.jpg" class="image-link" title="Zoom" >
+											<a href="images/college/type_de_manif/cocktail_PA.jpg" class="image-link" title="Zoom" >
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -192,12 +246,12 @@
 
 								<article class="col-sm-4 isotopeItem cocktail">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktails/Cellier_cocktail.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/cocktails/Cellier_cocktail.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktails/Cellier_cocktail.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/cocktails/Cellier_cocktail.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -210,12 +264,12 @@
 
 								<article class="col-sm-4 isotopeItem convention">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/conventions/GA_salle.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/conventions/GA_salle.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/conventions/GA_salle.jpg" class="image-link" title="Zoom" >
+											<a href="images/college/type_de_manif/conventions/GA_salle.jpg" class="image-link" title="Zoom" >
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -228,12 +282,12 @@
 
 								<article class="col-sm-4 isotopeItem cocktail">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktails/Cellier_soiree2.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/cocktails/Cellier_soiree2.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktails/Cellier_soiree2.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/cocktails/Cellier_soiree2.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -246,12 +300,12 @@
 
 								<article class="col-sm-4 isotopeItem convention">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/conventions/Salle_Lexington.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/conventions/Salle_Lexington.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/conventions/Salle_Lexington.jpg" class="image-link" title="Zoom" >
+											<a href="images/college/type_de_manif/conventions/Salle_Lexington.jpg" class="image-link" title="Zoom" >
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -264,12 +318,12 @@
 
 								<article class="col-sm-4 isotopeItem cocktail">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktail_nef.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/cocktail_nef.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktail_nef.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/cocktail_nef.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -282,12 +336,12 @@
 
 								<article class="col-sm-4 isotopeItem diner">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/Cellier_tables_hautes.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/diners-dej/Cellier_tables_hautes.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/Cellier_tables_hautes.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/diners-dej/Cellier_tables_hautes.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -300,12 +354,12 @@
 
 								<article class="col-sm-4 isotopeItem diner">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/IMG_0414.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/diners-dej/IMG_0414.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/IMG_0414.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/diners-dej/IMG_0414.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -318,12 +372,12 @@
 
 								<article class="col-sm-4 isotopeItem diner">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/MG_6120.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/diners-dej/MG_6120.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/MG_6120.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/diners-dej/MG_6120.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -354,12 +408,12 @@
 
 								<article class="col-sm-4 isotopeItem cocktail">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktails/1002.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/cocktails/1002.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktails/1002.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/cocktails/1002.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -372,12 +426,12 @@
 
 								<article class="col-sm-4 isotopeItem cocktail">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktails/2eme_PA.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/cocktails/2eme_PA.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktails/2eme_PA.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/cocktails/2eme_PA.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -391,12 +445,12 @@
 
 								<article class="col-sm-4 isotopeItem cocktail">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktails/DSC_0398.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/cocktails/DSC_0398.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktails/DSC_0398.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/cocktails/DSC_0398.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -409,12 +463,12 @@
 
 								<article class="col-sm-4 isotopeItem cocktail">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktails/IMG_2770.JPG" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/cocktails/IMG_2770.JPG" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktails/IMG_2770.JPG" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/cocktails/IMG_2770.JPG" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -427,12 +481,12 @@
 
 								<article class="col-sm-4 isotopeItem cocktail">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktails/lumiere_buffet_rond.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/cocktails/lumiere_buffet_rond.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktails/lumiere_buffet_rond.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/cocktails/lumiere_buffet_rond.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -445,12 +499,12 @@
 								
 								<article class="col-sm-4 isotopeItem reunion">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/reunions_travail/P1020398.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/reunions_travail/P1020398.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/reunions_travail/P1020398.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/reunions_travail/P1020398.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -463,12 +517,12 @@
 
 								<article class="col-sm-4 isotopeItem diner">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/Nef_table_unique.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/diners-dej/Nef_table_unique.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/Nef_table_unique.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/diners-dej/Nef_table_unique.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -499,12 +553,12 @@
 
 								<article class="col-sm-4 isotopeItem diner">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/P1010659.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/diners-dej/P1010659.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/P1010659.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/diners-dej/P1010659.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -517,12 +571,12 @@
 
 								<article class="col-sm-4 isotopeItem diner">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/P1020438.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/diners-dej/P1020438.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/P1020438.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/diners-dej/P1020438.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -553,12 +607,12 @@
 
 								<article class="col-sm-4 isotopeItem diner">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/P1050780.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/diners-dej/P1050780.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/P1050780.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/diners-dej/P1050780.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -571,12 +625,12 @@
 
 								<article class="col-sm-4 isotopeItem diner">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/soiree.novo.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/diners-dej/soiree.novo.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/soiree.novo.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/diners-dej/soiree.novo.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -589,12 +643,12 @@
 
 								<article class="col-sm-4 isotopeItem diner">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/Nef_diner_11.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/diners-dej/Nef_diner_11.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/diners-dej/Nef_diner_11.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/diners-dej/Nef_diner_11.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -607,12 +661,12 @@
 
 								<article class="col-sm-4 isotopeItem reunion">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/reunions_travail/20090626_Salles_100.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/reunions_travail/20090626_Salles_100.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/reunions_travail/20090626_Salles_100.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/reunions_travail/20090626_Salles_100.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -625,12 +679,12 @@
 
 								<article class="col-sm-4 isotopeItem cocktail">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktails/aca-legal-gen.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/cocktails/aca-legal-gen.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/cocktails/aca-legal-gen.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/cocktails/aca-legal-gen.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -643,12 +697,12 @@
 
 								<article class="col-sm-4 isotopeItem reunion">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/reunions_travail/20090626_Salles_102.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/reunions_travail/20090626_Salles_102.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/reunions_travail/20090626_Salles_102.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/reunions_travail/20090626_Salles_102.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -661,12 +715,12 @@
 
 								<article class="col-sm-4 isotopeItem reunion">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/type_de_manif/reunions_travail/201.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/type_de_manif/reunions_travail/201.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/type_de_manif/reunions_travail/201.jpg" class="image-link" title="Zoom">
+											<a href="images/college/type_de_manif/reunions_travail/201.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -679,12 +733,12 @@
 
 								<article class="col-sm-4 isotopeItem reunion">
 									<section class="imgWrapper"> 
-										<img alt="" src="http://www.location-des-bernardins.fr/images/college/cellier/salle_50.jpg" class="img-responsive"> 
+										<img alt="" src="images/college/cellier/salle_50.jpg" class="img-responsive"> 
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="http://www.location-des-bernardins.fr/images/college/cellier/salle_50.jpg" class="image-link" title="Zoom">
+											<a href="images/college/cellier/salle_50.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
