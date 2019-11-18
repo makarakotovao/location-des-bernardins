@@ -186,7 +186,7 @@
 										</div>
 									</div>
 									<section class="boxContent">
-										<h3>Cocktail dans le Petit Auditorium</h3>
+										<h3>Petit Auditorium</h3>
 									</section>
 								</article>
 
@@ -240,7 +240,7 @@
 										</div>
 									</div>
 									<section class="boxContent">
-										<h3>Petit Auditorium</h3>
+										<h3>Cocktail dans le Petit Auditorium</h3>
 									</section>
 								</article>
 
