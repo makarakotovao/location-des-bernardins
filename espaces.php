@@ -21,7 +21,7 @@
         <!-- Bootstrap  -->
         <link type="text/css" rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
         <!-- web font  -->
-        <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,800" rel="stylesheet" type="text/css">
         <!-- plugin css  -->
         <link rel="stylesheet" type="text/css" href="js-plugin/animation-framework/animate.css" />
         <link rel="stylesheet" type="text/css" href="js-plugin/magnific-popup/magnific-popup.css" />
