@@ -21,7 +21,7 @@
         <!-- Bootstrap  -->
         <link type="text/css" rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
         <!-- web font  -->
-        <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,800" rel="stylesheet" type="text/css">
         <!-- plugin css  -->
         <link rel="stylesheet" type="text/css" href="js-plugin/animation-framework/animate.css" />
         <link rel="stylesheet" type="text/css" href="js-plugin/magnific-popup/magnific-popup.css" />
@@ -51,7 +51,7 @@
         <link rel="apple-touch-icon" sizes="144x144" href="images/apple-touch-icon-144x144.png">
     </head>
     <body data-spy="scroll" data-target="#scrollTarget" data-offset="150" class="activateAppearAnimation">
-        <!-- Primary Page Layout 
+        <!-- Primary Page Layout
         ================================================== -->
         <!-- globalWrapper -->
         <div id="globalWrapper" class="localscroll">
@@ -95,7 +95,7 @@
                                     <div class="col-sm-12">
                                         <h3 class="titre_espaces">- La Nef :</h3>
                                     </div>
-                                    <div class="col-sm-12"> 
+                                    <div class="col-sm-12">
                                         <p class="detail_espaces">Salle à colonnades du XIIIème siècle, accueille des dîners de 100 à 360 personnes et des cocktails jusqu'à 850 personnes. Elle est idéale pour les réceptions autour d’un concert ou d’une exposition, et particulièrement spectaculaire avec une table unique (table unique d'une centaine de personnes).</p>
                                     </div>
                                 </div>
@@ -103,63 +103,63 @@
                                     <div class="col-sm-12">
                                         <h3 class="titre_espaces">- L’ancienne Sacristie :</h3>
                                     </div>
-                                    <div class="col-sm-12"> 
+                                    <div class="col-sm-12">
                                         <p class="detail_espaces">La plupart du temps consacrée aux expositions d'art contemporain, elle peut parfois servir d'espace d'accueil et de vestiaire permettant ainsi une arrivée de vos invités par l'extrémité nord offrant ainsi une magnifique perspective.</p>
                                     </div>
                                 </div>
 
                                 <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
-                                    <section class="imgWrapper"> 
-                                        <img src="http://www.location-des-bernardins.fr/images/college/RDC/nef.jpg" class="img-responsive" alt="Image collège des bernardins" /> 
+                                    <section class="imgWrapper">
+                                        <img src="http://www.location-des-bernardins.fr/images/college/RDC/nef.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                     </section>
 
                                     <div class="mediaHover">
                                         <div class="mask"></div>
-                                        <div class="iconLinks"> 
+                                        <div class="iconLinks">
 
-                                            <a href="http://www.location-des-bernardins.fr/images/college/RDC/nef.jpg" class="image-link" title="Nef" ><i class="icon-search iconRounded iconBig"></i><span>Nef</span></a> 
+                                            <a href="https://www.location-des-bernardins.fr/images/college/RDC/nef.jpg" class="image-link" title="Nef" ><i class="icon-search iconRounded iconBig"></i><span>Nef</span></a>
                                         </div>
                                     </div>
                                 </article>
 
                                 <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
-                                    <section class="imgWrapper"> 
-                                        <img src="http://www.location-des-bernardins.fr/images/college/RDC/nef2.jpg" class="img-responsive" alt="Image collège des bernardins" /> 
+                                    <section class="imgWrapper">
+                                        <img src="http://www.location-des-bernardins.fr/images/college/RDC/nef2.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                     </section>
 
                                     <div class="mediaHover">
                                         <div class="mask"></div>
-                                        <div class="iconLinks"> 
+                                        <div class="iconLinks">
 
-                                            <a href="http://www.location-des-bernardins.fr/images/college//RDC/nef2.jpg" class="image-link" title="Nef" ><i class="icon-search iconRounded iconBig"></i><span>Nef</span></a> 
+                                            <a href="https://www.location-des-bernardins.fr/images/college//RDC/nef2.jpg" class="image-link" title="Nef" ><i class="icon-search iconRounded iconBig"></i><span>Nef</span></a>
                                         </div>
                                     </div>
                                 </article>
 
                                 <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
-                                    <section class="imgWrapper img_special"> 
-                                        <img src="http://www.location-des-bernardins.fr/images/college/soireenovo.jpg" class="img-responsive" alt="Image collège des bernardins" /> 
+                                    <section class="imgWrapper img_special">
+                                        <img src="http://www.location-des-bernardins.fr/images/college/soireenovo.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                     </section>
 
                                     <div class="mediaHover img_special">
                                         <div class="mask"></div>
-                                        <div class="iconLinks"> 
+                                        <div class="iconLinks">
 
-                                            <a href="http://www.location-des-bernardins.fr/images/college/soireenovo.jpg" class="image-link" title="Nef" ><i class="icon-search iconRounded iconBig"></i><span>Nef</span></a> 
+                                            <a href="https://www.location-des-bernardins.fr/images/college/soireenovo.jpg" class="image-link" title="Nef" ><i class="icon-search iconRounded iconBig"></i><span>Nef</span></a>
                                         </div>
                                     </div>
                                 </article>
 
                                 <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
-                                    <section class="imgWrapper img_special3"> 
-                                        <img src="http://www.location-des-bernardins.fr/images/college/RDC/college.jpg" class="img-responsive" alt="Image collège des bernardins" /> 
+                                    <section class="imgWrapper img_special3">
+                                        <img src="http://www.location-des-bernardins.fr/images/college/RDC/college.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                     </section>
 
                                     <div class="mediaHover maskmedia">
                                         <div class="mask"></div>
-                                        <div class="iconLinks"> 
+                                        <div class="iconLinks">
 
-                                            <a href="http://www.location-des-bernardins.fr/images/college/RDC/college.jpg" class="image-link" title="Ancienne Sacristie" ><i class="icon-search iconRounded iconBig modif_icon"></i><span>Ancienne Sacristie</span></a> 
+                                            <a href="https://www.location-des-bernardins.fr/images/college/RDC/college.jpg" class="image-link" title="Ancienne Sacristie" ><i class="icon-search iconRounded iconBig modif_icon"></i><span>Ancienne Sacristie</span></a>
                                         </div>
                                     </div>
                                 </article>
@@ -171,20 +171,20 @@
                                         <h2><i class="glyphicon glyphicon-arrow-right"></i> Au 2ème étage</h2>
                                     </div>
                                 </div>
-                                
-                                <div class="col-sm-12"> 
+
+                                <div class="col-sm-12">
                                         <p class="detail_espaces"><strong>Souvent utilisé dans son intégralité offrant ainsi un espace de plénière (Grand Auditorium), un espace d'accueil avec un vestiaire (foyer), une petite salle loge ou bureau de production et un espace de restauration (Petit Auditorium).</strong></p>
                                     </div>
-                                
-                                
+
+
                                 <div class="col-lg-12">
                                     <div class="col-sm-12">
                                         <h3 class="titre_espaces">- Le Grand Auditorium en gradins :</h3>
                                     </div>
-                                    <div class="col-sm-12"> 
+                                    <div class="col-sm-12">
                                         <p class="detail_espaces">230 places. Sonorisé. Équipé de vidéo-projection HD, un écran de 6m x 4.50m, un plateau 3 caméras full HD, un projecteur de cinéma 35 mm, avec un piano de concert.</p>
 
-                                        
+
                                     </div>
                                 </div>
                                 <div class="row block_news" data-nekoanim="fadeInRightBig" data-nekodelay="200">
@@ -214,7 +214,7 @@
                                     <div class="col-sm-12">
                                         <h3 class="titre_espaces">- Le Petit Auditorium :</h3>
                                     </div>
-                                    <div class="col-sm-12"> 
+                                    <div class="col-sm-12">
                                         <p class="detail_espaces">110 places.
                                         Sonorisé.
                                         Équipé de vidéo-projection et d'un écran.
@@ -222,61 +222,61 @@
                                     </div>
                                 </div>
 
-                                
+
 
                                 <div class="row">
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
-                                        <section class="imgWrapper"> 
-                                            <img src="http://www.location-des-bernardins.fr/images/college/2etage/foyer_accueil.jpg" class="img-responsive" alt="Image collège des bernardins" /> 
+                                        <section class="imgWrapper">
+                                            <img src="http://www.location-des-bernardins.fr/images/college/2etage/foyer_accueil.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
                                         <div class="mediaHover">
                                             <div class="mask"></div>
-                                            <div class="iconLinks"> 
+                                            <div class="iconLinks">
 
-                                                <a href="http://www.location-des-bernardins.fr/images/college/2etage/foyer_accueil.jpg" class="image-link" title="Foyer d'accueil" ><i class="icon-search iconRounded iconBig"></i><span>Foyer d'accueil</span></a> 
+                                                <a href="https://www.location-des-bernardins.fr/images/college/2etage/foyer_accueil.jpg" class="image-link" title="Foyer d'accueil" ><i class="icon-search iconRounded iconBig"></i><span>Foyer d'accueil</span></a>
                                             </div>
                                         </div>
                                     </article>
 
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
-                                        <section class="imgWrapper"> 
-                                            <img src="http://www.location-des-bernardins.fr/images/college/2etage/ga_salle.jpg" class="img-responsive" alt="Image collège des bernardins" /> 
+                                        <section class="imgWrapper">
+                                            <img src="http://www.location-des-bernardins.fr/images/college/2etage/ga_salle.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
                                         <div class="mediaHover">
                                             <div class="mask"></div>
-                                            <div class="iconLinks"> 
+                                            <div class="iconLinks">
 
-                                                <a href="http://www.location-des-bernardins.fr/images/college/2etage/ga_salle.jpg" class="image-link" title="Grand Auditorium" ><i class="icon-search iconRounded iconBig"></i><span>Grand Auditorium</span></a> 
+                                                <a href="https://www.location-des-bernardins.fr/images/college/2etage/ga_salle.jpg" class="image-link" title="Grand Auditorium" ><i class="icon-search iconRounded iconBig"></i><span>Grand Auditorium</span></a>
                                             </div>
                                         </div>
                                     </article>
 
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
-                                        <section class="imgWrapper img_special2"> 
-                                            <img src="http://www.location-des-bernardins.fr/images/college/2etage/pa_cote.jpg" class="img-responsive" alt="Image collège des bernardins" /> 
+                                        <section class="imgWrapper img_special2">
+                                            <img src="http://www.location-des-bernardins.fr/images/college/2etage/pa_cote.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
                                         <div class="mediaHover img_special2">
                                             <div class="mask"></div>
-                                            <div class="iconLinks"> 
+                                            <div class="iconLinks">
 
-                                                <a href="http://www.location-des-bernardins.fr/images/college/2etage/pa_cote.jpg" class="image-link" title="Petit Auditorium" ><i class="icon-search iconRounded iconBig"></i><span>Petit Auditorium</span></a> 
+                                                <a href="https://www.location-des-bernardins.fr/images/college/2etage/pa_cote.jpg" class="image-link" title="Petit Auditorium" ><i class="icon-search iconRounded iconBig"></i><span>Petit Auditorium</span></a>
                                             </div>
                                         </div>
                                     </article>
 
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
-                                        <section class="imgWrapper"> 
-                                            <img src="http://www.location-des-bernardins.fr/images/college/2etage/DSC_0812.jpg" class="img-responsive" alt="Image collège des bernardins" /> 
+                                        <section class="imgWrapper">
+                                            <img src="http://www.location-des-bernardins.fr/images/college/2etage/DSC_0812.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
                                         <div class="mediaHover">
                                             <div class="mask"></div>
-                                            <div class="iconLinks"> 
+                                            <div class="iconLinks">
 
-                                                <a href="http://www.location-des-bernardins.fr/images/college/2etage/DSC_0812.jpg" class="image-link" title="Salle 201" ><i class="icon-search iconRounded iconBig"></i><span>Salle 201</span></a> 
+                                                <a href="https://www.location-des-bernardins.fr/images/college/2etage/DSC_0812.jpg" class="image-link" title="Salle 201" ><i class="icon-search iconRounded iconBig"></i><span>Salle 201</span></a>
                                             </div>
                                         </div>
                                     </article>
@@ -294,9 +294,9 @@
                                     <div class="col-sm-12">
                                         <h3 class="titre_espaces">Le Cellier :</h3>
                                     </div>
-                                    <div class="col-sm-12"> 
+                                    <div class="col-sm-12">
                                         <p class="detail_espaces">- 2 grandes salles de 80 personnes en conférence, 70 en déjeuner ou dîner et 110 en cocktail</p>
-                                        
+
                                         <br>
                                         <p>- 5 petites salles de 50 personnes en conférence, 50 en déjeuner ou dîner et 70 en cocktail </p>
                                         <br>
@@ -309,83 +309,83 @@
                                     <div class="col-sm-12">
                                         <h3 class="titre_espaces">Salle Lexington :</h3>
                                     </div>
-                                    <div class="col-sm-12"> 
+                                    <div class="col-sm-12">
                                         <p class="detail_espaces">La salle Lexington de 130 places est aménagée en classe. Elle permet de recevoir également une configuration en U jusqu'à 40 personnes.</p>
                                     </div>
                                 </div>
 
                                 <div class="row">
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
-                                        <section class="imgWrapper"> 
-                                            <img src="http://www.location-des-bernardins.fr/images/college/cellier/deambulatoire.jpg" class="img-responsive" alt="Image collège des bernardins" /> 
+                                        <section class="imgWrapper">
+                                            <img src="http://www.location-des-bernardins.fr/images/college/cellier/deambulatoire.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
                                         <div class="mediaHover">
                                             <div class="mask"></div>
-                                            <div class="iconLinks"> 
+                                            <div class="iconLinks">
 
-                                                <a href="http://www.location-des-bernardins.fr/images/college/cellier/deambulatoire.jpg" class="image-link" title="Déambulatoire" ><i class="icon-search iconRounded iconBig"></i><span>Déambulatoire</span></a> 
+                                                <a href="https://www.location-des-bernardins.fr/images/college/cellier/deambulatoire.jpg" class="image-link" title="Déambulatoire" ><i class="icon-search iconRounded iconBig"></i><span>Déambulatoire</span></a>
                                             </div>
                                         </div>
                                     </article>
 
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
-                                        <section class="imgWrapper"> 
-                                            <img src="http://www.location-des-bernardins.fr/images/college/cellier/grand_salle.jpg" class="img-responsive" alt="Image collège des bernardins" /> 
+                                        <section class="imgWrapper">
+                                            <img src="http://www.location-des-bernardins.fr/images/college/cellier/grand_salle.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
                                         <div class="mediaHover">
                                             <div class="mask"></div>
-                                            <div class="iconLinks"> 
+                                            <div class="iconLinks">
 
-                                                <a href="http://www.location-des-bernardins.fr/images/college/cellier/grand_salle.jpg" class="image-link" title="Grande salle" ><i class="icon-search iconRounded iconBig"></i><span>Grande salle</span></a> 
+                                                <a href="https://www.location-des-bernardins.fr/images/college/cellier/grand_salle.jpg" class="image-link" title="Grande salle" ><i class="icon-search iconRounded iconBig"></i><span>Grande salle</span></a>
                                             </div>
                                         </div>
                                     </article>
 
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
-                                        <section class="imgWrapper"> 
-                                            <img src="http://www.location-des-bernardins.fr/images/college/cellier/salle_50.jpg" class="img-responsive" alt="Image collège des bernardins" /> 
+                                        <section class="imgWrapper">
+                                            <img src="http://www.location-des-bernardins.fr/images/college/cellier/salle_50.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
                                         <div class="mediaHover">
                                             <div class="mask"></div>
-                                            <div class="iconLinks"> 
+                                            <div class="iconLinks">
 
-                                                <a href="http://www.location-des-bernardins.fr/images/college/cellier/salle_50.jpg" class="image-link" title="Petite salle" ><i class="icon-search iconRounded iconBig"></i><span>Petite salle</span></a> 
+                                                <a href="https://www.location-des-bernardins.fr/images/college/cellier/salle_50.jpg" class="image-link" title="Petite salle" ><i class="icon-search iconRounded iconBig"></i><span>Petite salle</span></a>
                                             </div>
                                         </div>
                                     </article>
 
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
-                                        <section class="imgWrapper"> 
-                                            <img src="http://www.location-des-bernardins.fr/images/college/cellier/20081022_Reperages_013.jpg" class="img-responsive" alt="Image collège des bernardins" /> 
+                                        <section class="imgWrapper">
+                                            <img src="http://www.location-des-bernardins.fr/images/college/cellier/20081022_Reperages_013.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
                                         <div class="mediaHover">
                                             <div class="mask"></div>
-                                            <div class="iconLinks"> 
+                                            <div class="iconLinks">
 
-                                                <a href="http://www.location-des-bernardins.fr/images/college/cellier/20081022_Reperages_013.jpg" class="image-link" title="Lexington" ><i class="icon-search iconRounded iconBig"></i><span>Lexington</span></a> 
+                                                <a href="https://www.location-des-bernardins.fr/images/college/cellier/20081022_Reperages_013.jpg" class="image-link" title="Lexington" ><i class="icon-search iconRounded iconBig"></i><span>Lexington</span></a>
                                             </div>
                                         </div>
                                     </article>
                                 </div>
                             </div>
-                            
+
                             <div class="col-lg-12">
-                                    <div class="col-sm-12"> 
+                                    <div class="col-sm-12">
                                         <p class="detail_espaces">Les salles du 2<sup>ème</sup> étage et du cellier sont équipées de vidéo-projection et écran et, pour certaines, de son.</p>
                                         <p class="detail_espaces">Le Grand Auditorium lui, est intégralement équipé</p>
-                                        
+
                                     </div>
                                 </div>
-                            
+
 
                             <div id="telechargement">
-                            
+
                                 <a href="telechargement.html" class="btn btn-lg"> Tableau des capacités</a>
-                                
+
                             </div>
 
                         </div>
@@ -399,7 +399,7 @@
 
 
         </div>
-                        <!-- End Document 
+                        <!-- End Document
         ================================================== -->
         <script type="text/javascript" src="js-plugin/respond/respond.min.js"></script>
         <script type="text/javascript" src="js-plugin/jquery/1.8.3/jquery.min.js"></script>
@@ -428,6 +428,6 @@
         <!-- Custom  -->
         <script type="text/javascript" src="js/custom.js"></script>
         <script type="text/javascript" src="js/GogleAnalyticsObject.js"></script>
-        
+
     </body>
     </html>
