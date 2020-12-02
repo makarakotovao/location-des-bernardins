@@ -117,7 +117,7 @@
                                         <div class="mask"></div>
                                         <div class="iconLinks"> 
 
-                                            <a href="http://www.location-des-bernardins.fr/images/college/RDC/nef.jpg" class="image-link" title="Nef" ><i class="icon-search iconRounded iconBig"></i><span>Nef</span></a> 
+                                            <a href="https://www.location-des-bernardins.fr/images/college/RDC/nef.jpg" class="image-link" title="Nef" ><i class="icon-search iconRounded iconBig"></i><span>Nef</span></a> 
                                         </div>
                                     </div>
                                 </article>
@@ -131,7 +131,7 @@
                                         <div class="mask"></div>
                                         <div class="iconLinks"> 
 
-                                            <a href="http://www.location-des-bernardins.fr/images/college//RDC/nef2.jpg" class="image-link" title="Nef" ><i class="icon-search iconRounded iconBig"></i><span>Nef</span></a> 
+                                            <a href="https://www.location-des-bernardins.fr/images/college//RDC/nef2.jpg" class="image-link" title="Nef" ><i class="icon-search iconRounded iconBig"></i><span>Nef</span></a> 
                                         </div>
                                     </div>
                                 </article>
@@ -145,7 +145,7 @@
                                         <div class="mask"></div>
                                         <div class="iconLinks"> 
 
-                                            <a href="http://www.location-des-bernardins.fr/images/college/soireenovo.jpg" class="image-link" title="Nef" ><i class="icon-search iconRounded iconBig"></i><span>Nef</span></a> 
+                                            <a href="https://www.location-des-bernardins.fr/images/college/soireenovo.jpg" class="image-link" title="Nef" ><i class="icon-search iconRounded iconBig"></i><span>Nef</span></a> 
                                         </div>
                                     </div>
                                 </article>
@@ -159,7 +159,7 @@
                                         <div class="mask"></div>
                                         <div class="iconLinks"> 
 
-                                            <a href="http://www.location-des-bernardins.fr/images/college/RDC/college.jpg" class="image-link" title="Ancienne Sacristie" ><i class="icon-search iconRounded iconBig modif_icon"></i><span>Ancienne Sacristie</span></a> 
+                                            <a href="https://www.location-des-bernardins.fr/images/college/RDC/college.jpg" class="image-link" title="Ancienne Sacristie" ><i class="icon-search iconRounded iconBig modif_icon"></i><span>Ancienne Sacristie</span></a> 
                                         </div>
                                     </div>
                                 </article>
@@ -234,7 +234,7 @@
                                             <div class="mask"></div>
                                             <div class="iconLinks"> 
 
-                                                <a href="http://www.location-des-bernardins.fr/images/college/2etage/foyer_accueil.jpg" class="image-link" title="Foyer d'accueil" ><i class="icon-search iconRounded iconBig"></i><span>Foyer d'accueil</span></a> 
+                                                <a href="https://www.location-des-bernardins.fr/images/college/2etage/foyer_accueil.jpg" class="image-link" title="Foyer d'accueil" ><i class="icon-search iconRounded iconBig"></i><span>Foyer d'accueil</span></a> 
                                             </div>
                                         </div>
                                     </article>
@@ -248,7 +248,7 @@
                                             <div class="mask"></div>
                                             <div class="iconLinks"> 
 
-                                                <a href="http://www.location-des-bernardins.fr/images/college/2etage/ga_salle.jpg" class="image-link" title="Grand Auditorium" ><i class="icon-search iconRounded iconBig"></i><span>Grand Auditorium</span></a> 
+                                                <a href="https://www.location-des-bernardins.fr/images/college/2etage/ga_salle.jpg" class="image-link" title="Grand Auditorium" ><i class="icon-search iconRounded iconBig"></i><span>Grand Auditorium</span></a> 
                                             </div>
                                         </div>
                                     </article>
@@ -262,7 +262,7 @@
                                             <div class="mask"></div>
                                             <div class="iconLinks"> 
 
-                                                <a href="http://www.location-des-bernardins.fr/images/college/2etage/pa_cote.jpg" class="image-link" title="Petit Auditorium" ><i class="icon-search iconRounded iconBig"></i><span>Petit Auditorium</span></a> 
+                                                <a href="https://www.location-des-bernardins.fr/images/college/2etage/pa_cote.jpg" class="image-link" title="Petit Auditorium" ><i class="icon-search iconRounded iconBig"></i><span>Petit Auditorium</span></a> 
                                             </div>
                                         </div>
                                     </article>
@@ -276,7 +276,7 @@
                                             <div class="mask"></div>
                                             <div class="iconLinks"> 
 
-                                                <a href="http://www.location-des-bernardins.fr/images/college/2etage/DSC_0812.jpg" class="image-link" title="Salle 201" ><i class="icon-search iconRounded iconBig"></i><span>Salle 201</span></a> 
+                                                <a href="https://www.location-des-bernardins.fr/images/college/2etage/DSC_0812.jpg" class="image-link" title="Salle 201" ><i class="icon-search iconRounded iconBig"></i><span>Salle 201</span></a> 
                                             </div>
                                         </div>
                                     </article>
@@ -324,7 +324,7 @@
                                             <div class="mask"></div>
                                             <div class="iconLinks"> 
 
-                                                <a href="http://www.location-des-bernardins.fr/images/college/cellier/deambulatoire.jpg" class="image-link" title="Déambulatoire" ><i class="icon-search iconRounded iconBig"></i><span>Déambulatoire</span></a> 
+                                                <a href="https://www.location-des-bernardins.fr/images/college/cellier/deambulatoire.jpg" class="image-link" title="Déambulatoire" ><i class="icon-search iconRounded iconBig"></i><span>Déambulatoire</span></a> 
                                             </div>
                                         </div>
                                     </article>
@@ -338,7 +338,7 @@
                                             <div class="mask"></div>
                                             <div class="iconLinks"> 
 
-                                                <a href="http://www.location-des-bernardins.fr/images/college/cellier/grand_salle.jpg" class="image-link" title="Grande salle" ><i class="icon-search iconRounded iconBig"></i><span>Grande salle</span></a> 
+                                                <a href="https://www.location-des-bernardins.fr/images/college/cellier/grand_salle.jpg" class="image-link" title="Grande salle" ><i class="icon-search iconRounded iconBig"></i><span>Grande salle</span></a> 
                                             </div>
                                         </div>
                                     </article>
@@ -352,7 +352,7 @@
                                             <div class="mask"></div>
                                             <div class="iconLinks"> 
 
-                                                <a href="http://www.location-des-bernardins.fr/images/college/cellier/salle_50.jpg" class="image-link" title="Petite salle" ><i class="icon-search iconRounded iconBig"></i><span>Petite salle</span></a> 
+                                                <a href="https://www.location-des-bernardins.fr/images/college/cellier/salle_50.jpg" class="image-link" title="Petite salle" ><i class="icon-search iconRounded iconBig"></i><span>Petite salle</span></a> 
                                             </div>
                                         </div>
                                     </article>
@@ -366,7 +366,7 @@
                                             <div class="mask"></div>
                                             <div class="iconLinks"> 
 
-                                                <a href="http://www.location-des-bernardins.fr/images/college/cellier/20081022_Reperages_013.jpg" class="image-link" title="Lexington" ><i class="icon-search iconRounded iconBig"></i><span>Lexington</span></a> 
+                                                <a href="https://www.location-des-bernardins.fr/images/college/cellier/20081022_Reperages_013.jpg" class="image-link" title="Lexington" ><i class="icon-search iconRounded iconBig"></i><span>Lexington</span></a> 
                                             </div>
                                         </div>
                                     </article>
