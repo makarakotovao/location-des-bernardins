@@ -26,7 +26,7 @@ if (!empty($_POST['cdbmail'])) {
 
                                 $message .= "<br>Nom : <b>".$_POST["nom"]." - ".$_POST["prenom"]."</b><br>";
                                 $message .= "Adresse : <b>".$_POST["adresse"]." - ".$_POST["cp"]." - ".$_POST["ville"]." - ".$_POST["pays"]."</b><br>";
-                                
+
                                 $message .= "T&eacute;l&eacute;phones : <b>".$_POST["tel"]." - </b><br>";
                                 $message .= "Mail : <b>".$_POST["email"]."</b><br><br>";
 
@@ -45,7 +45,7 @@ if (!empty($_POST['cdbmail'])) {
                                 $message .= "Objet de la manifestation : ".$_POST["objet"]."<br><br><hr>";
 
                                 $message .= "<strong>Message :</strong> <br><br>".$_POST["message"]."<br><br>";
-                              
+
                             $message .= "</font><hr><br><br>";
 
                             $message .= '</body></html>';
@@ -71,7 +71,7 @@ if (!empty($_POST['cdbmail'])) {
 						$mailer->set_charset('utf-8');
 						$mailer->set_subject($subject);
 						$mailer->set_message($message);
-						$mailer->send();	
+						$mailer->send();
 */
                         mg_mail($to, $subject, $message, $from, $bcc);
 
@@ -90,16 +90,16 @@ if (!empty($_POST['cdbmail'])) {
 
                                 $message .= "<br>Nom : <b>".$_POST["nom"]." - ".$_POST["prenom"]."</b><br>";
                                 $message .= "Adresse : <b>".$_POST["adresse"]." - ".$_POST["cp"]." - ".$_POST["ville"]." - ".$_POST["pays"]."</b><br>";
-                                
+
                                 $message .= "T&eacute;l&eacute;phones : <b>".$_POST["tel"]." - </b><br>";
                                 $message .= "Mail : <b>".$_POST["email"]."</b><br><br>";
 
                                 $message .= "Entreprise : <b>".$_POST["entreprise"]."</b>";
 
                                 $message .= "<br><hr>";
-                            
+
                                 $message .= "<strong>Message :</strong> <br><br>".$_POST["message"]."<br><br>";
-                              
+
                             $message .= "</font><hr><br><br>";
 
                             $message .= '</body></html>';
@@ -125,7 +125,7 @@ if (!empty($_POST['cdbmail'])) {
 						$mailer->set_charset('utf-8');
 						$mailer->set_subject($subject);
 						$mailer->set_message($message);
-						$mailer->send();	
+						$mailer->send();
 */
                         mg_mail($to, $subject, $message, $from, $bcc);
 
@@ -241,7 +241,7 @@ if (!empty($_POST['cdbmail'])) {
 
     <body data-spy="scroll" data-target="#scrollTarget" data-offset="150" class="activateAppearAnimation">
 
-        <!-- Primary Page Layout 
+        <!-- Primary Page Layout
 
         ================================================== -->
 
@@ -315,7 +315,7 @@ if (!empty($_POST['cdbmail'])) {
 
 
 
-                                
+
 
                           </div>
 
@@ -343,7 +343,7 @@ if (!empty($_POST['cdbmail'])) {
 
                             </div>
 
-                        </div>                      
+                        </div>
 
                     </div>
 
@@ -353,7 +353,7 @@ if (!empty($_POST['cdbmail'])) {
 
         </div>
 
-                        <!-- End Document 
+                        <!-- End Document
 
         ================================================== -->
 
@@ -408,7 +408,7 @@ if (!empty($_POST['cdbmail'])) {
         <!-- Custom  -->
 
         <script type="text/javascript" src="js/custom.js"></script>
-        <script type="text/javascript" src="js/GogleAnalyticsObject.js"></script>       
+        <script type="text/javascript" src="js/GogleAnalyticsObject.js"></script>
 
     </body>
 
