@@ -254,11 +254,11 @@
                                     </article>
 
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
-                                        <section class="imgWrapper ">
+                                        <section class="imgWrapper img_special2">
                                             <img src="images/college/2etage/pa_cote.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
-                                        <div class="mediaHover ">
+                                        <div class="mediaHover img_special2">
                                             <div class="mask"></div>
                                             <div class="iconLinks">
 
