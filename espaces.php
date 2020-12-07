@@ -131,17 +131,17 @@
                                         <div class="mask"></div>
                                         <div class="iconLinks">
 
-                                            <a href="images/college/RDC/nef2.jpg" class="image-link" title="Nef" ><i class="icon-search iconRounded iconBig"></i><span>Nef</span></a>
+                                            <a href="images/college//RDC/nef2.jpg" class="image-link" title="Nef" ><i class="icon-search iconRounded iconBig"></i><span>Nef</span></a>
                                         </div>
                                     </div>
                                 </article>
 
                                 <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
-                                    <section class="imgWrapper">
+                                    <section class="imgWrapper img_special">
                                         <img src="images/college/soireenovo.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                     </section>
 
-                                    <div class="mediaHover">
+                                    <div class="mediaHover img_special">
                                         <div class="mask"></div>
                                         <div class="iconLinks">
 
