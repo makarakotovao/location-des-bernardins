@@ -153,7 +153,7 @@
 
 /* slide */
 
-/* témoignage */ 
+/* témoignage */
 .name_temoignage{
 	font-size: 12px;
 	margin-top: -15px;
@@ -194,7 +194,7 @@
 	margin-top: 100px;
 	padding-top: 10px;
 	padding-bottom: 15px;
-	color: black; 
+	color: black;
 }
 /* Mécenat */
 
@@ -222,12 +222,17 @@
 		font-size: 25px;
 	}
 }
-.img_special{
-	width: 78%;
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  .img_special{
+    width: 78%;
+  }
+  .img_special2{
+    width: 89%;
+  }
 }
-.img_special2{
-	width: 89%;
-}
+
 .img_special3{
 	width: 125%;
 	margin-left: -60px;
@@ -267,7 +272,7 @@
 	margin-right: auto;
 	width: 23%;
 }
-/* espaces */ 
+/* espaces */
 /* Téléchargement */
 
 .docs{
