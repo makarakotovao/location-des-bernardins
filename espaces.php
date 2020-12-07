@@ -83,7 +83,7 @@
                                 <h2 class="subTitle">Le Collège des Bernardins est un lieu dont la rénovation, les aménagements, les équipements techniques sont voués aux réunions, débats, rencontres … <br /> Il est composé d'une vingtaine d'espaces</h2>
                             </div>
 
-                            <div class="row rdc">
+                            <div class="rdc">
                                 <div class="col-lg-12">
                                     <div class="col-sm-12">
                                         <h2><i class="glyphicon glyphicon-arrow-right"></i> Au Rez-de-Chaussée</h2>
@@ -165,7 +165,7 @@
                                 </article>
                             </div>
 
-                            <div class="row second_etage">
+                            <div class="second_etage">
                                 <div class="col-lg-12">
                                     <div class="col-sm-12">
                                         <h2><i class="glyphicon glyphicon-arrow-right"></i> Au 2ème étage</h2>
@@ -187,7 +187,7 @@
 
                                     </div>
                                 </div>
-                                <div class="row block_news" data-nekoanim="fadeInRightBig" data-nekodelay="200">
+                                <div class="block_news" data-nekoanim="fadeInRightBig" data-nekodelay="200">
                             <img src="images/college/news/college_coulisse-2.jpg" class="photo_news" id="college_coulisse">
                             <div class="col-sm-12">
 
