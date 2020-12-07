@@ -40,7 +40,7 @@
         <link type="text/css" rel="stylesheet" href="css/layout.css">
         <link type="text/css" id="colors" rel="stylesheet" href="css/purple.css">
         <link rel="stylesheet" type="text/css" href="css/style/styles.css">
-        <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
+        <!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
         <script src="js/modernizr-2.6.1.min.js"></script>
         <!-- Favicons
         ================================================== -->
@@ -110,7 +110,7 @@
 
                                 <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
                                     <section class="imgWrapper">
-                                        <img src="http://www.location-des-bernardins.fr/images/college/RDC/nef.jpg" class="img-responsive" alt="Image collège des bernardins" />
+                                        <img src="https://www.location-des-bernardins.fr/images/college/RDC/nef.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                     </section>
 
                                     <div class="mediaHover">
@@ -124,7 +124,7 @@
 
                                 <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
                                     <section class="imgWrapper">
-                                        <img src="http://www.location-des-bernardins.fr/images/college/RDC/nef2.jpg" class="img-responsive" alt="Image collège des bernardins" />
+                                        <img src="https://www.location-des-bernardins.fr/images/college/RDC/nef2.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                     </section>
 
                                     <div class="mediaHover">
@@ -138,7 +138,7 @@
 
                                 <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
                                     <section class="imgWrapper img_special">
-                                        <img src="http://www.location-des-bernardins.fr/images/college/soireenovo.jpg" class="img-responsive" alt="Image collège des bernardins" />
+                                        <img src="https://www.location-des-bernardins.fr/images/college/soireenovo.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                     </section>
 
                                     <div class="mediaHover img_special">
@@ -152,7 +152,7 @@
 
                                 <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
                                     <section class="imgWrapper img_special3">
-                                        <img src="http://www.location-des-bernardins.fr/images/college/RDC/college.jpg" class="img-responsive" alt="Image collège des bernardins" />
+                                        <img src="https://www.location-des-bernardins.fr/images/college/RDC/college.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                     </section>
 
                                     <div class="mediaHover maskmedia">
@@ -227,7 +227,7 @@
                                 <div class="row">
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
                                         <section class="imgWrapper">
-                                            <img src="http://www.location-des-bernardins.fr/images/college/2etage/foyer_accueil.jpg" class="img-responsive" alt="Image collège des bernardins" />
+                                            <img src="https://www.location-des-bernardins.fr/images/college/2etage/foyer_accueil.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
                                         <div class="mediaHover">
@@ -241,7 +241,7 @@
 
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
                                         <section class="imgWrapper">
-                                            <img src="http://www.location-des-bernardins.fr/images/college/2etage/ga_salle.jpg" class="img-responsive" alt="Image collège des bernardins" />
+                                            <img src="https://www.location-des-bernardins.fr/images/college/2etage/ga_salle.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
                                         <div class="mediaHover">
@@ -255,7 +255,7 @@
 
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
                                         <section class="imgWrapper img_special2">
-                                            <img src="http://www.location-des-bernardins.fr/images/college/2etage/pa_cote.jpg" class="img-responsive" alt="Image collège des bernardins" />
+                                            <img src="https://www.location-des-bernardins.fr/images/college/2etage/pa_cote.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
                                         <div class="mediaHover img_special2">
@@ -269,7 +269,7 @@
 
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
                                         <section class="imgWrapper">
-                                            <img src="http://www.location-des-bernardins.fr/images/college/2etage/DSC_0812.jpg" class="img-responsive" alt="Image collège des bernardins" />
+                                            <img src="https://www.location-des-bernardins.fr/images/college/2etage/DSC_0812.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
                                         <div class="mediaHover">
@@ -317,7 +317,7 @@
                                 <div class="row">
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
                                         <section class="imgWrapper">
-                                            <img src="http://www.location-des-bernardins.fr/images/college/cellier/deambulatoire.jpg" class="img-responsive" alt="Image collège des bernardins" />
+                                            <img src="https://www.location-des-bernardins.fr/images/college/cellier/deambulatoire.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
                                         <div class="mediaHover">
@@ -331,7 +331,7 @@
 
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
                                         <section class="imgWrapper">
-                                            <img src="http://www.location-des-bernardins.fr/images/college/cellier/grand_salle.jpg" class="img-responsive" alt="Image collège des bernardins" />
+                                            <img src="https://www.location-des-bernardins.fr/images/college/cellier/grand_salle.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
                                         <div class="mediaHover">
@@ -345,7 +345,7 @@
 
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
                                         <section class="imgWrapper">
-                                            <img src="http://www.location-des-bernardins.fr/images/college/cellier/salle_50.jpg" class="img-responsive" alt="Image collège des bernardins" />
+                                            <img src="https://www.location-des-bernardins.fr/images/college/cellier/salle_50.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
                                         <div class="mediaHover">
@@ -359,7 +359,7 @@
 
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
                                         <section class="imgWrapper">
-                                            <img src="http://www.location-des-bernardins.fr/images/college/cellier/20081022_Reperages_013.jpg" class="img-responsive" alt="Image collège des bernardins" />
+                                            <img src="https://www.location-des-bernardins.fr/images/college/cellier/20081022_Reperages_013.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
                                         <div class="mediaHover">

@@ -30,7 +30,7 @@
 	<link type="text/css" rel="stylesheet" href="css/layout.css">
 	<link type="text/css" id="colors" rel="stylesheet" href="css/purple.css">
 	<link rel="stylesheet" type="text/css" href="css/style/styles.css">
-	<!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
+	<!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
 	<script src="js/modernizr-2.6.1.min.js"></script>
 	<!-- Favicons
 	================================================== -->
@@ -49,9 +49,9 @@
 								<h2 class="subTitle">Le Collège des Bernardins accueille certains types de manifestations professionnelles (conférence, séminaire, réunion, colloque, déjeuner, petit-déjeuner-débat, dîner et cocktail...)</h2>
 							</div>
 							<div class="col-sm-12 interdiction">
-								
+
 								<p><strong>Mais ne reçoit pas : <br>- Les réceptions de particuliers, <br>- Les défilés de mode, <br>- Les conférences de presse,<br>- Les tournages et shootings.</strong></p>
-								
+
 							</div>
 							<nav id="filter" class="col-md-12 text-center">
 								<ul>
@@ -70,11 +70,11 @@
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
-										<div class="iconLinks"> 
+										<div class="iconLinks">
 											<a href="images/college/type_de_manif/gueridon-nef.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
-											</a> 
+											</a>
 										</div>
 									</div>
 									<section class="boxContent">
@@ -83,8 +83,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem cocktail">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/cocktails/cocktail-nef.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/cocktails/cocktail-nef.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -101,8 +101,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem diner">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/diners-dej/diner-nef.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/diners-dej/diner-nef.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -124,11 +124,11 @@
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
-										<div class="iconLinks"> 
+										<div class="iconLinks">
 											<a href="images/college/type_de_manif/cellier-table-unique.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
-											</a> 
+											</a>
 										</div>
 									</div>
 									<section class="boxContent">
@@ -137,8 +137,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem convention">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/conventions/afd_53.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/conventions/afd_53.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -155,8 +155,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem diner">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/diners-dej/diner-table-unique.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/diners-dej/diner-table-unique.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -173,8 +173,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem convention">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/conventions/petit-auditorium.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/conventions/petit-auditorium.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -191,8 +191,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem reunion">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/reunions_travail/20090121_diversElise_018.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/reunions_travail/20090121_diversElise_018.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -209,8 +209,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem convention">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/conventions/Cope_004.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/conventions/Cope_004.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -227,8 +227,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem convention">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/cocktail_PA.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/cocktail_PA.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -245,8 +245,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem cocktail">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/cocktails/Cellier_cocktail.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/cocktails/Cellier_cocktail.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -263,8 +263,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem convention">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/conventions/GA_salle.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/conventions/GA_salle.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -281,8 +281,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem cocktail">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/cocktails/Cellier_soiree2.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/cocktails/Cellier_soiree2.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -299,8 +299,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem convention">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/conventions/Salle_Lexington.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/conventions/Salle_Lexington.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -317,8 +317,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem cocktail">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/cocktail_nef.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/cocktail_nef.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -335,8 +335,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem diner">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/diners-dej/Cellier_tables_hautes.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/diners-dej/Cellier_tables_hautes.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -353,8 +353,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem diner">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/diners-dej/IMG_0414.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/diners-dej/IMG_0414.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -371,8 +371,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem diner">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/diners-dej/MG_6120.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/diners-dej/MG_6120.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -389,8 +389,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem cocktail">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/cocktails/nef-forum.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/cocktails/nef-forum.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -407,8 +407,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem cocktail">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/cocktails/1002.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/cocktails/1002.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -425,8 +425,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem cocktail">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/cocktails/2eme_PA.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/cocktails/2eme_PA.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -444,8 +444,8 @@
 
 
 								<article class="col-sm-4 isotopeItem cocktail">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/cocktails/DSC_0398.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/cocktails/DSC_0398.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -462,8 +462,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem cocktail">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/cocktails/IMG_2770.JPG" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/cocktails/IMG_2770.JPG" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -480,8 +480,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem cocktail">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/cocktails/lumiere_buffet_rond.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/cocktails/lumiere_buffet_rond.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -496,10 +496,10 @@
 										<h3>Cocktail dans la Nef</h3>
 									</section>
 								</article>
-								
+
 								<article class="col-sm-4 isotopeItem reunion">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/reunions_travail/P1020398.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/reunions_travail/P1020398.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -516,8 +516,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem diner">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/diners-dej/Nef_table_unique.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/diners-dej/Nef_table_unique.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -534,8 +534,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem diner">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/diners-dej/nef-concert.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/diners-dej/nef-concert.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -552,8 +552,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem diner">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/diners-dej/P1010659.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/diners-dej/P1010659.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -570,8 +570,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem diner">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/diners-dej/P1020438.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/diners-dej/P1020438.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -588,8 +588,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem diner">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/diners-dej/montage-nef.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/diners-dej/montage-nef.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -606,8 +606,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem diner">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/diners-dej/P1050780.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/diners-dej/P1050780.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -624,8 +624,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem diner">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/diners-dej/soiree.novo.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/diners-dej/soiree.novo.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -642,8 +642,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem diner">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/diners-dej/Nef_diner_11.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/diners-dej/Nef_diner_11.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -660,8 +660,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem reunion">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/reunions_travail/20090626_Salles_100.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/reunions_travail/20090626_Salles_100.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -678,8 +678,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem cocktail">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/cocktails/aca-legal-gen.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/cocktails/aca-legal-gen.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -696,8 +696,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem reunion">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/reunions_travail/20090626_Salles_102.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/reunions_travail/20090626_Salles_102.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -714,8 +714,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem reunion">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/type_de_manif/reunions_travail/201.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/type_de_manif/reunions_travail/201.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -732,8 +732,8 @@
 								</article>
 
 								<article class="col-sm-4 isotopeItem reunion">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/cellier/salle_50.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/cellier/salle_50.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -748,10 +748,10 @@
 										<h3>Réunion de travail</h3>
 									</section>
 								</article>
-								
+
 								<article class="col-sm-4 isotopeItem reunion">
-									<section class="imgWrapper"> 
-										<img alt="" src="images/college/cellier/nef-vide.jpg" class="img-responsive"> 
+									<section class="imgWrapper">
+										<img alt="" src="images/college/cellier/nef-vide.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
@@ -772,7 +772,7 @@
 						</div>
 					</section>
 
-		
+
 
 		<script type="text/javascript" src="js-plugin/respond/respond.min.js"></script>
 
@@ -823,7 +823,7 @@
 
 		<script type="text/javascript" src="js/custom.js"></script>
 
-       	<script type="text/javascript" src="js/GogleAnalyticsObject.js"></script>  
+       	<script type="text/javascript" src="js/GogleAnalyticsObject.js"></script>
 
 
 

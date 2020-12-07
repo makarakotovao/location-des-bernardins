@@ -219,7 +219,7 @@ if (!empty($_POST['cdbmail'])) {
 
         <link rel="stylesheet" type="text/css" href="css/style/styles.css">
 
-        <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
+        <!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
 
         <script src="js/modernizr-2.6.1.min.js"></script>
 
