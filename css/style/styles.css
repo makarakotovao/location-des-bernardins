@@ -230,12 +230,12 @@
   .img_special2{
     width: 89%;
   }
+  .img_special3{
+	  width: 125%;
+	  margin-left: -60px;
+  }
 }
 
-.img_special3{
-	width: 125%;
-	margin-left: -60px;
-}
 .modif_icon{
 	margin-left: 20px;
 }
