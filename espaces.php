@@ -96,7 +96,7 @@
                                         <h3 class="titre_espaces">- La Nef :</h3>
                                     </div>
                                     <div class="col-sm-12">
-                                        <p class="detail_espaces">Salle à colonnades du XIIIème siècle, accueille des dîners de 100 à 360 personnes et des cocktails jusqu'à 850 personnes. Elle est idéale pour les réceptions autour d’un concert ou d’une exposition, et particulièrement spectaculaire avec une table unique (table unique d'une centaine de personnes).</p>
+                                        <p class="detail_espaces">Salle à colonnades du XIIIème siècle, accueille des dîners de 100 à 360 personnes et des cocktails jusqu'à 800 personnes. Elle est idéale pour les réceptions autour d’un concert ou d’une exposition, et particulièrement spectaculaire avec une table unique (table unique d'une centaine de personnes).</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-12">
@@ -310,7 +310,7 @@
                                         <h3 class="titre_espaces">Salle Lexington :</h3>
                                     </div>
                                     <div class="col-sm-12">
-                                        <p class="detail_espaces">La salle Lexington de 130 places est aménagée en classe. Elle permet de recevoir également une configuration en U jusqu'à 40 personnes.</p>
+                                        <p class="detail_espaces">La salle Lexington de 110 places est aménagée en classe. Elle permet de recevoir également une configuration en U jusqu'à 40 personnes.</p>
                                     </div>
                                 </div>
 
