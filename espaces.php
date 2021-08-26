@@ -138,11 +138,11 @@
                                 </article>
 
                                 <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
-                                    <section class="imgWrapper img_special">
+                                    <section class="imgWrapper">
                                         <img src="images/college/RDC/nef2021-3.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                     </section>
 
-                                    <div class="mediaHover img_special">
+                                    <div class="mediaHover">
                                         <div class="mask"></div>
                                         <div class="iconLinks">
 
@@ -152,11 +152,11 @@
                                 </article>
 
                                 <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
-                                    <section class="imgWrapper img_special3">
+                                    <section class="imgWrapper">
                                         <img src="images/college/RDC/ancienne-sacristie-2021.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                     </section>
 
-                                    <div class="mediaHover maskmedia">
+                                    <div class="mediaHover">
                                         <div class="mask"></div>
                                         <div class="iconLinks">
 
@@ -256,11 +256,11 @@
                                     </article>
 
                                     <article class="col-sm-3 block_espaces" data-nekoanim="fadeIn" data-nekodelay="100">
-                                        <section class="imgWrapper img_special2">
+                                        <section class="imgWrapper">
                                             <img src="images/college/2etage/petit-audit.jpg" class="img-responsive" alt="Image collège des bernardins" />
                                         </section>
 
-                                        <div class="mediaHover img_special2">
+                                        <div class="mediaHover">
                                             <div class="mask"></div>
                                             <div class="iconLinks">
 
