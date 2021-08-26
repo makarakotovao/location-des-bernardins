@@ -300,12 +300,12 @@
 
 								<article class="col-sm-4 isotopeItem convention">
 									<section class="imgWrapper">
-										<img alt="" src="images/college/type_de_manif/conventions/Salle_Lexington.jpg" class="img-responsive">
+										<img alt="" src="images/college/cellier/lexington2021.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="images/college/type_de_manif/conventions/Salle_Lexington.jpg" class="image-link" title="Zoom" >
+											<a href="images/college/cellier/lexington2021.jpg" class="image-link" title="Zoom" >
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -715,12 +715,12 @@
 
 								<article class="col-sm-4 isotopeItem reunion">
 									<section class="imgWrapper">
-										<img alt="" src="images/college/type_de_manif/reunions_travail/201.jpg" class="img-responsive">
+										<img alt="" src="images/college/2etage/salle200.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="images/college/type_de_manif/reunions_travail/201.jpg" class="image-link" title="Zoom">
+											<a href="images/college/2etage/salle200.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
@@ -733,12 +733,12 @@
 
 								<article class="col-sm-4 isotopeItem reunion">
 									<section class="imgWrapper">
-										<img alt="" src="images/college/cellier/salle_50.jpg" class="img-responsive">
+										<img alt="" src="images/college/cellier/salleG-grande.jpg" class="img-responsive">
 									</section>
 									<div class="mediaHover">
 										<div class="mask"></div>
 										<div class="iconLinks">
-											<a href="images/college/cellier/salle_50.jpg" class="image-link" title="Zoom">
+											<a href="images/college/cellier/salleG-grande.jpg" class="image-link" title="Zoom">
 												<i class="icon-search iconRounded iconBig"></i>
 												<span>zoom</span>
 											</a>
