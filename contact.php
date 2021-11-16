@@ -267,7 +267,7 @@ if (!empty($_POST['cdbmail'])) {
 
                                 <ul class="nav navbar-nav pull-right">
 
-                                    <li><a href="index.html"><i class="glyphicon glyphicon-chevron-left"></i>Retour vers l'accueil</a></li>
+                                    <li><a href="index.php"><i class="glyphicon glyphicon-chevron-left"></i>Retour vers l'accueil</a></li>
 
                                 </ul>
 
@@ -408,6 +408,7 @@ if (!empty($_POST['cdbmail'])) {
         <!-- Custom  -->
 
         <script type="text/javascript" src="js/custom.js"></script>
+        <script type="text/javascript" src="js/google_analytics.js"></script>
         <script type="text/javascript" src="js/GogleAnalyticsObject.js"></script>
 
     </body>

@@ -64,7 +64,7 @@
                             <a href="/"><img src="images/logo/logo.jpg" alt="College des bernardins - Location des espaces" id="logoLocation"/></a> </div>
                             <div class="collapse navbar-collapse navbar-ex1-collapse" id="scrollTarget">
                                 <ul class="nav navbar-nav pull-right">
-                                    <li><a href="index.html#espaces"><i class="glyphicon glyphicon-chevron-left"></i>Retour vers l'accueil</a></li>
+                                    <li><a href="index.php#espaces"><i class="glyphicon glyphicon-chevron-left"></i>Retour vers l'accueil</a></li>
                                     <li class="active"><a href="#espaces"><i class="glyphicon glyphicon-plus"></i>Les espaces</a> </li>
                                 </ul>
                             </div>
@@ -402,6 +402,10 @@
 
 
         </div>
+
+        <?php
+            include 'cookies_banner.php';
+        ?>
                         <!-- End Document
         ================================================== -->
         <script type="text/javascript" src="js-plugin/respond/respond.min.js"></script>
@@ -420,6 +424,7 @@
         <script type="text/javascript" src="js-plugin/parallax/js/jquery.scrollTo.2.0.0-min.js"></script>
         <script type="text/javascript" src="js-plugin/parallax/js/jquery.localscroll-1.2.7-min.js"></script>
         <script type="text/javascript" src="js-plugin/parallax/js/jquery.stellar.min.js"></script>
+        <script type="text/javascript" src="js-plugin/jquery-cookie/jquery.cookie-1.4.1.min.js"></script>
         <!-- appear -->
         <script type="text/javascript" src="js-plugin/appear/jquery.appear.js"></script>
         <script type="text/javascript" src="js-plugin/pageSlide/jquery.pageslide-custom.js"></script>
@@ -429,7 +434,9 @@
 
 
         <!-- Custom  -->
+        <script type="text/javascript" src="js/rgpd.js"></script>
         <script type="text/javascript" src="js/custom.js"></script>
+        <script type="text/javascript" src="js/google_analytics.js"></script>
         <script type="text/javascript" src="js/GogleAnalyticsObject.js"></script>
 
     </body>

@@ -822,7 +822,7 @@
 		<!-- Custom  -->
 
 		<script type="text/javascript" src="js/custom.js"></script>
-
+		<script type="text/javascript" src="js/google_analytics.js"></script>
        	<script type="text/javascript" src="js/GogleAnalyticsObject.js"></script>
 
 
