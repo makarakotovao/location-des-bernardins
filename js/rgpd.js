@@ -9,7 +9,7 @@ const cookiesTracked = {
   functional: [],
   statistics: [
     '_ga*',
-    'gid',
+    '_gid',
     '_dc_gtm_*',
     '__utm*'
   ],
@@ -98,7 +98,6 @@ function isAllowed(cookieName) {
 }
 
 function blockCookies() {
-  return true;
   // Load all cookies.
   const cookies = $.cookie();
 

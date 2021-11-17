@@ -164,8 +164,9 @@
         </div>
       </section>
     </div>
-
+    <?php include 'cookies_banner.php'; ?>
     <!-- End Document
+
     ================================================== -->
 
     <script type="text/javascript" src="js-plugin/respond/respond.min.js"></script>

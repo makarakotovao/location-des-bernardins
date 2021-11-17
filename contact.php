@@ -353,6 +353,8 @@ if (!empty($_POST['cdbmail'])) {
 
         </div>
 
+        <?php include 'cookies_banner.php'; ?>
+
                         <!-- End Document
 
         ================================================== -->
@@ -388,6 +390,8 @@ if (!empty($_POST['cdbmail'])) {
         <script type="text/javascript" src="js-plugin/parallax/js/jquery.localscroll-1.2.7-min.js"></script>
 
         <script type="text/javascript" src="js-plugin/parallax/js/jquery.stellar.min.js"></script>
+        <script type="text/javascript" src="js-plugin/jquery-cookie/jquery.cookie-1.4.1.min.js"></script>
+
 
         <!-- appear -->
 
@@ -406,10 +410,9 @@ if (!empty($_POST['cdbmail'])) {
 
 
         <!-- Custom  -->
-
-        <script type="text/javascript" src="js/custom.js"></script>
         <script type="text/javascript" src="js/google_analytics.js"></script>
-
+        <script type="text/javascript" src="js/rgpd.js"></script>
+        <script type="text/javascript" src="js/custom.js"></script>
     </body>
 
     </html>

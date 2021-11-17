@@ -311,6 +311,8 @@
 
 		</div>
 
+    <?php include 'cookies_banner.php'; ?>
+
 						<!-- End Document
 
 		================================================== -->
