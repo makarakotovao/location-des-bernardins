@@ -118,13 +118,13 @@
 
 							<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
 
-							<a href="index.html"><img src="images/logo/logo.jpg" alt="College des bernardins - Location des espaces" id="logoLocation"/></a> </div>
+							<a href="index.php"><img src="images/logo/logo.jpg" alt="College des bernardins - Location des espaces" id="logoLocation"/></a> </div>
 
 							<div class="collapse navbar-collapse navbar-ex1-collapse" id="scrollTarget">
 
 								<ul class="nav navbar-nav pull-right">
 
-									<li><a href="index.html#paralaxSlice3"><i class="glyphicon glyphicon-chevron-left"></i>Retour vers l'accueil</a></li>
+									<li><a href="index.php#paralaxSlice3"><i class="glyphicon glyphicon-chevron-left"></i>Retour vers l'accueil</a></li>
 
 									<li class="active"><a href="#about"><i class="glyphicon glyphicon-plus"></i>Références / Témoignages</a> </li>
 
@@ -311,6 +311,8 @@
 
 		</div>
 
+    <?php include 'cookies_banner.php'; ?>
+
 						<!-- End Document
 
 		================================================== -->
@@ -347,6 +349,8 @@
 
 		<script type="text/javascript" src="js-plugin/parallax/js/jquery.stellar.min.js"></script>
 
+		<script type="text/javascript" src="js-plugin/jquery-cookie/jquery.cookie-1.4.1.min.js"></script>
+
 		<!-- appear -->
 
 		<script type="text/javascript" src="js-plugin/appear/jquery.appear.js"></script>
@@ -364,10 +368,9 @@
 
 
 		<!-- Custom  -->
-
+		<script type="text/javascript" src="js/rgpd.js"></script>
 		<script type="text/javascript" src="js/custom.js"></script>
-
-        <script type="text/javascript" src="js/GogleAnalyticsObject.js"></script>
+		<script type="text/javascript" src="js/google_analytics.js"></script>
 
 
 

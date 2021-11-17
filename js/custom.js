@@ -4,22 +4,6 @@
 
 /*jshint strict: true */
 
-
-
-
-
-/*************** GOOGLE ANALYTICS ***********/
-
-/*************** REPLACE WITH YOUR OWN UA NUMBER ***********/
-
-window.onload = function () { "use strict"; gaSSDSLoad(""); }; //load after page onload
-
-/*************** REPLACE WITH YOUR OWN UA NUMBER ***********/
-
-
-
-
-
 /*
 
 |--------------------------------------------------------------------------
@@ -28,7 +12,7 @@ window.onload = function () { "use strict"; gaSSDSLoad(""); }; //load after page
 
 |--------------------------------------------------------------------------
 
-*/  
+*/
 
 
 
@@ -76,7 +60,7 @@ $(document).ready(function() {
 
 
 
-    
+
 
         if ($(window).scrollTop()>= $starter){
 
@@ -158,7 +142,7 @@ $(document).ready(function() {
 
 
 
-    }			
+    }
 
     /*
 
@@ -186,7 +170,7 @@ $(document).ready(function() {
 
             var items = [];
 
-            
+
 
             items.push( { src: $(this).attr('href')  } );
 
@@ -204,15 +188,15 @@ $(document).ready(function() {
 
                     items.push( {
 
-                        src: v 
+                        src: v
 
                     });
 
-                });     
+                });
 
             }
 
-     
+
 
             $.magnificPopup.open({
 
@@ -224,7 +208,7 @@ $(document).ready(function() {
 
                 gallery: {
 
-                  enabled: true 
+                  enabled: true
 
                 }
 
@@ -236,7 +220,7 @@ $(document).ready(function() {
 
         });
 
-  
+
 
     }
 
@@ -254,7 +238,7 @@ $(document).ready(function() {
 
 
 
-    
+
 
     /*
 
@@ -272,9 +256,9 @@ $(document).ready(function() {
 
 
 
-    
 
-    
+
+
 
     /*
 
@@ -296,7 +280,7 @@ $(document).ready(function() {
 
         $(e.target).siblings('.accordion-heading').find('.accordion-toggle i').toggleClass('icon-plus icon-minus', 200);
 
-        
+
 
     });
 
@@ -310,7 +294,7 @@ $(document).ready(function() {
 
     |--------------------------------------------------------------------------
 
-    */   
+    */
 
     $('.slideContact').click(function(e){
 
@@ -330,17 +314,17 @@ $(document).ready(function() {
 
                 $('#contactinfoWrapper').fadeToggle();
 
-                
+
 
 
 
             });
 
-            $('#closeContact').fadeToggle(); 
+            $('#closeContact').fadeToggle();
 
             return false;
 
-            
+
 
         }else{
 
@@ -348,7 +332,7 @@ $(document).ready(function() {
 
             return true;
 
-            
+
 
         }
 
@@ -356,9 +340,9 @@ $(document).ready(function() {
 
     });
 
-    
 
-    
+
+
 
     $('#closeContact').click(function(e){
 
@@ -374,7 +358,7 @@ $(document).ready(function() {
 
         });
 
-        
+
 
         $('#contact').slideUp('normal', 'easeOutQuad');
 
@@ -386,11 +370,10 @@ $(document).ready(function() {
 
         e.preventDefault();
 
-        
+
 
     });
 
-    
 
 
 
@@ -398,9 +381,10 @@ $(document).ready(function() {
 
 
 
-    
 
-    
+
+
+
 
     /* MAP */
 
@@ -414,25 +398,25 @@ $(document).ready(function() {
 
         initialize('mapWrapper');
 
-        
+
 
         $('#contactinfoWrapper, #contactinfoWrapperPage').animate({
 
-            marginLeft:'-2000px' 
+            marginLeft:'-2000px'
 
-        }, 400, function() {}); 
+        }, 400, function() {});
 
-        
 
-        
+
+
 
         $('#mapSlideWrapper').animate({
 
-            marginLeft:'25px' 
+            marginLeft:'25px'
 
-        }, 400, function() {});  
+        }, 400, function() {});
 
-        
+
 
         appendBootstrap();
 
@@ -448,9 +432,9 @@ $(document).ready(function() {
 
     appendBootstrap();
 
-    
 
-    
+
+
 
     $('#mapTriggerLoader').click(function(e){
 
@@ -464,73 +448,73 @@ $(document).ready(function() {
 
         $('#contactSlide').animate({
 
-            marginLeft:'-2000px' 
+            marginLeft:'-2000px'
 
-        }, 400, function() {}); 
+        }, 400, function() {});
 
-        
 
-        
+
+
 
         $('#mapSlide').animate({
 
-            marginLeft:'0' 
+            marginLeft:'0'
 
         }, 400, function() {
 
             $('#contactSlide').css('display', 'none');
 
-        });  
+        });
 
 
 
-        
+
 
         appendBootstrap();
 
-        
+
 
         e.preventDefault();
 
     });
 
-    
 
-    
+
+
 
     $('#mapReturn').click(function(e){
 
         //$('#mapWrapper').css('margin-bottom', '3em');
 
-        
+
 
         $('#contactSlide').css('display', 'block');
 
         $('#mapSlide').animate({
 
-            marginLeft:'3000px' 
+            marginLeft:'3000px'
 
-        }, 400, function() {});       
+        }, 400, function() {});
 
-        
+
 
 
 
         $('#contactSlide').animate({
 
-            marginLeft:'0' 
+            marginLeft:'0'
 
         }, 400, function() {
 
             $('#mapSlide').css('display', 'none');
 
-        }); 
+        });
 
 
 
         e.preventDefault();
 
-    }); 
+    });
 
 
 
@@ -544,9 +528,9 @@ $(document).ready(function() {
 
     */
 
-     if($('#portfolio-carousel').length){ 
+     if($('#portfolio-carousel').length){
 
-     alert('toto');    
+     alert('toto');
 
         $("#portfolio-carousel").owlCarousel();
 
@@ -560,7 +544,7 @@ $(document).ready(function() {
 
     |--------------------------------------------------------------------------
 
-    */ 
+    */
 
     if($('#flexHome').length){
 
@@ -572,15 +556,15 @@ $(document).ready(function() {
 
             controlNav:true,
 
-            directionNav:false, 
+            directionNav:false,
 
             touch: true,
 
             direction: "vertical"
 
-      
 
-        });    
+
+        });
 
     }
 
@@ -604,27 +588,27 @@ $(document).ready(function() {
 
             touch: true,
 
-            prevText: '<i class="icon-left-open"></i>',           
+            prevText: '<i class="icon-left-open"></i>',
 
-            nextText: '<i class="icon-right-open"></i>',   
+            nextText: '<i class="icon-right-open"></i>',
 
             start: function(slider){
 
-                setTimeout("animateTxt("+slider.currentSlide+", 'in')", 100);  
+                setTimeout("animateTxt("+slider.currentSlide+", 'in')", 100);
 
             },
 
             before: function(slider){
 
-                setTimeout("animateTxt("+slider.currentSlide+")", 100);  
+                setTimeout("animateTxt("+slider.currentSlide+")", 100);
 
             },
 
             after: function(slider){
 
-                setTimeout("animateTxt("+slider.currentSlide+", 'in')", 100);  
+                setTimeout("animateTxt("+slider.currentSlide+", 'in')", 100);
 
-            } 
+            }
 
         });
 
@@ -646,15 +630,15 @@ $(document).ready(function() {
 
             controlNav:false,
 
-            touch: true, 
+            touch: true,
 
             slideshow: true,
 
-            prevText: '<i class="icon-left-open"></i>',           
+            prevText: '<i class="icon-left-open"></i>',
 
-            nextText: '<i class="icon-right-open"></i>'  
+            nextText: '<i class="icon-right-open"></i>'
 
-        });    
+        });
 
     }
 
@@ -676,11 +660,11 @@ $(document).ready(function() {
 
             slideshow: true,
 
-            prevText: '<i class="icon-left-open"></i>',           
+            prevText: '<i class="icon-left-open"></i>',
 
-            nextText: '<i class="icon-right-open"></i>'  
+            nextText: '<i class="icon-right-open"></i>'
 
-        });    
+        });
 
     }
 
@@ -702,15 +686,15 @@ $(document).ready(function() {
 
             slideshow: true,
 
-            prevText: '<i class="icon-left-open"></i>',           
+            prevText: '<i class="icon-left-open"></i>',
 
-            nextText: '<i class="icon-right-open"></i>'  
+            nextText: '<i class="icon-right-open"></i>'
 
-        });    
+        });
 
     }
 
-	
+
 
 	 if($('.flexApp').length){
 
@@ -722,13 +706,13 @@ $(document).ready(function() {
 
             controlNav:false,
 
-            touch: true,	
+            touch: true,
 
-            prevText: '<i class="icon-left-open"></i>',           
+            prevText: '<i class="icon-left-open"></i>',
 
-            nextText: '<i class="icon-right-open"></i>'  
+            nextText: '<i class="icon-right-open"></i>'
 
-        });    
+        });
 
     }
 
@@ -750,7 +734,7 @@ $(document).ready(function() {
 
     |--------------------------------------------------------------------------
 
-    */     
+    */
 
 
 
@@ -774,7 +758,7 @@ $(document).ready(function() {
 
 
 
-                $('.mediaHover', $this).height($('.imgWrapper', $this).height());   
+                $('.mediaHover', $this).height($('.imgWrapper', $this).height());
 
 
 
@@ -802,9 +786,9 @@ $(document).ready(function() {
 
 
 
-                        $('.iconLinks a', $this).removeClass('flipOutX'); 
+                        $('.iconLinks a', $this).removeClass('flipOutX');
 
-                        $('.iconLinks a', $this).addClass('bounceInDown'); 
+                        $('.iconLinks a', $this).addClass('bounceInDown');
 
 
 
@@ -844,9 +828,9 @@ $(document).ready(function() {
 
                     if(Modernizr.csstransitions) {
 
-                        $('.iconLinks a', $this).removeClass('bounceInDown'); 
+                        $('.iconLinks a', $this).removeClass('bounceInDown');
 
-                        $('.iconLinks a', $this).addClass('flipOutX'); 
+                        $('.iconLinks a', $this).addClass('flipOutX');
 
 
 
@@ -880,7 +864,7 @@ $(document).ready(function() {
 
     |--------------------------------------------------------------------------
 
-    */ 
+    */
 
 
 
@@ -936,7 +920,7 @@ $(document).ready(function() {
 
     |--------------------------------------------------------------------------
 
-    */ 
+    */
 
     $('.alert').delegate('button', 'click', function() {
 
@@ -944,9 +928,9 @@ $(document).ready(function() {
 
     });
 
-    
 
-    
+
+
 
     /*
 
@@ -956,9 +940,9 @@ $(document).ready(function() {
 
     |--------------------------------------------------------------------------
 
-    */   
+    */
 
-    
+
 
     if($('.colorHover').length){
 
@@ -978,7 +962,7 @@ $(document).ready(function() {
 
 
 
-            }, 
+            },
 
 
 
@@ -1008,7 +992,7 @@ $(document).ready(function() {
 
     |--------------------------------------------------------------------------
 
-    */ 
+    */
 
     if($('.boxIcon').length){
 
@@ -1020,7 +1004,7 @@ $(document).ready(function() {
 
 
 
-            $this.css('opacity', '1');   
+            $this.css('opacity', '1');
 
             //$this.find('.boxContent>p').stop(true, false).css('opacity', 0);
 
@@ -1032,7 +1016,7 @@ $(document).ready(function() {
 
 
 
-            $this.find('.iconWrapper i').addClass('triggeredHover');    
+            $this.find('.iconWrapper i').addClass('triggeredHover');
 
 
 
@@ -1062,15 +1046,15 @@ $(document).ready(function() {
 
             $this.find('.boxContent>p').css('margin-top', '250px');
 
-            $this.find('.iconWrapper i').removeClass('triggeredHover'); 
+            $this.find('.iconWrapper i').removeClass('triggeredHover');
 
 
 
 
 
-        });   
+        });
 
-    }   
+    }
 
 
 
@@ -1142,7 +1126,7 @@ $(document).ready(function() {
 
 if($('#shareme').length){
 
-  
+
 
     $('#shareme').sharrre({
 
@@ -1186,7 +1170,7 @@ if($('#shareme').length){
 
   });
 
-} 
+}
 
 
 
@@ -1236,9 +1220,9 @@ if($('.previewTrigger').length){
 
             $('.iconWrapper', $this).css('display', 'block');
 
-            $('.iconWrapper', $this).removeClass('flipOutX'); 
+            $('.iconWrapper', $this).removeClass('flipOutX');
 
-            $('.iconWrapper', $this).addClass('bounceInDown'); 
+            $('.iconWrapper', $this).addClass('bounceInDown');
 
         }else{
 
@@ -1252,7 +1236,7 @@ if($('.previewTrigger').length){
 
 
 
-        var $this = $(this); 
+        var $this = $(this);
 
 
 
@@ -1262,7 +1246,7 @@ if($('.previewTrigger').length){
 
         if(Modernizr.csstransitions) {
 
-            $('.iconWrapper', $this).removeClass('bounceInDown'); 
+            $('.iconWrapper', $this).removeClass('bounceInDown');
 
             $('.iconWrapper', $this).addClass('flipOutX');
 
@@ -1382,7 +1366,7 @@ if($('.activateAppearAnimation').length){
 
 
 
-//END DOCUMENT READY   
+//END DOCUMENT READY
 
 });
 
@@ -1416,7 +1400,7 @@ $(window).load(function() {
 
     |--------------------------------------------------------------------------
 
-    */ 
+    */
 
     $('#status').fadeOut(); // will first fade out the loading animation
 
@@ -1434,7 +1418,7 @@ $(window).load(function() {
 
     |--------------------------------------------------------------------------
 
-    */ 
+    */
 
     if($('.isotopeWrapper').length){
 
@@ -1446,7 +1430,7 @@ $(window).load(function() {
 
         // initialize isotope
 
-        
+
 
         $container.isotope({
 
@@ -1464,7 +1448,7 @@ $(window).load(function() {
 
 
 
-            
+
 
         });
 
@@ -1508,9 +1492,9 @@ $(window).load(function() {
 
         });
 
-        
 
-        
+
+
 
         $(window).smartresize(function(){
 
@@ -1528,11 +1512,11 @@ $(window).load(function() {
 
         });
 
-        
 
 
 
-}  
+
+}
 
 
 
@@ -1556,7 +1540,7 @@ $('.iconBoxV3 a').hover(function() {
 
         $('i', this).css('-o-transform', 'rotateZ(360deg)');
 
-        $('i', this).css('transform', 'rotateZ(360deg)'); 
+        $('i', this).css('transform', 'rotateZ(360deg)');
 
 
 
@@ -1568,7 +1552,7 @@ $('.iconBoxV3 a').hover(function() {
 
 
 
-   }  
+   }
 
 
 
@@ -1586,7 +1570,7 @@ $('.iconBoxV3 a').hover(function() {
 
         $('i', this).css('-o-transform', 'rotateZ(0deg)');
 
-        $('i', this).css('transform', 'rotateZ(0deg)'); 
+        $('i', this).css('transform', 'rotateZ(0deg)');
 
 
 
@@ -1596,9 +1580,9 @@ $('.iconBoxV3 a').hover(function() {
 
         $(this).stop(false, true).toggleClass( 'hover', 150);
 
-    }  
+    }
 
-    
+
 
 });
 
@@ -1612,7 +1596,7 @@ if($('.scrollMenu').length){
 
 
 
-        if($('.localscroll').length){    
+        if($('.localscroll').length){
 
             $('.localscroll').localScroll({
 
@@ -1642,7 +1626,7 @@ if($('.scrollMenu').length){
 
 
 
-       
+
 
         if (isMobile === false && ($('#paralaxSlice1').length  ||isMobile === false &&  $('#paralaxSlice2').length ))
 
@@ -1674,7 +1658,7 @@ if($('.scrollMenu').length){
 
         }
 
-  
+
 
 
 
@@ -1716,11 +1700,11 @@ function nekoAnimAppear(){
 
         $this.addClass("nekoAnim-invisible");
 
-        
+
 
         if($(window).width() > 767) {
 
-            
+
 
             $this.appear(function() {
 
@@ -1888,7 +1872,7 @@ jQuery(function() {
 
 
 
-        
+
 
         rules: {
 
@@ -1976,7 +1960,7 @@ function animateTxt(curSlide, action){
 
         $('.slideN'+curSlide+':not([class*=clone])>.caption>div').each(function( ) {
 
-            if(Modernizr.csstransitions) { 
+            if(Modernizr.csstransitions) {
 
 
 
@@ -2042,7 +2026,7 @@ function animateTxt(curSlide, action){
 
         $('.slideN'+curSlide+':not([class*=clone])>.caption>div').each(function( ) {
 
-         if(Modernizr.csstransitions) { 
+         if(Modernizr.csstransitions) {
 
 
 
@@ -2102,7 +2086,7 @@ function appendBootstrap() {
     document.body.appendChild(script);
     */
 
-}    
+}
 
 
 
@@ -2312,7 +2296,7 @@ var map = new google.maps.Map(document.getElementById(id), {
 
     },
 
-    
+
 
     {
 
@@ -2420,7 +2404,7 @@ var infowindow = new google.maps.InfoWindow({ content: "loading..." });
 
 
 
-for (i = 0; i < locations.length; i++) { 
+for (i = 0; i < locations.length; i++) {
 
 
 
@@ -2440,7 +2424,7 @@ for (i = 0; i < locations.length; i++) {
 
                 position: myLatlng,
 
-                icon:image,  
+                icon:image,
 
                 title: overlayTitle,
 
@@ -2520,7 +2504,7 @@ for (i = 0; i < locations.length; i++) {
 
                     position: myLatlng,
 
-                    icon:image,  
+                    icon:image,
 
                     title: overlayTitle,
 
@@ -2580,58 +2564,6 @@ for (i = 0; i < locations.length; i++) {
 
 
 
-/* ANALYTICS */
-
-function gaSSDSLoad (acct) {
-
-  "use strict";  
-
-  var gaJsHost = (("https:" === document.location.protocol) ? "https://ssl." : "http://www."),
-
-  pageTracker,
-
-  s;
-
-  s = document.createElement('script');
-
-  s.src = gaJsHost + 'google-analytics.com/ga.js';
-
-  s.type = 'text/javascript';
-
-  s.onloadDone = false;
-
-  function init () {
-
-    pageTracker = _gat._getTracker(acct);
-
-    pageTracker._trackPageview();
-
-}
-
-s.onload = function () {
-
-    s.onloadDone = true;
-
-    init();
-
-};
-
-s.onreadystatechange = function() {
-
-    if (('loaded' === s.readyState || 'complete' === s.readyState) && !s.onloadDone) {
-
-      s.onloadDone = true;
-
-      init();
-
-  }
-
-};
-
-document.getElementsByTagName('head')[0].appendChild(s);
-
-}
-
 
 
 
@@ -2642,7 +2574,7 @@ document.getElementsByTagName('head')[0].appendChild(s);
 
 function fullscreenImage(){
 
-          $('#homeFullScreen').css({height:$(window).height()})   
+          $('#homeFullScreen').css({height:$(window).height()})
 
 }
 
@@ -2660,13 +2592,13 @@ $(window).on("resize",function(e){
 
             }
 
-    
+
 
 });
 
 
 
-/** Vérification formulaire **/ 
+/** Vérification formulaire **/
 
 function surligne(champ, erreur)
 {
@@ -2742,7 +2674,7 @@ function verifForm(f)
    var mailOk = verifMail(f.email);
    var telOk = verifTel(f.tel);
    var messOk = verifMess(f.message);
-   
+
    if(nomOk && mailOk && telOk && messOk)
       return true;
    else

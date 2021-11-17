@@ -283,6 +283,8 @@
 
 		</div>
 
+    <?php include 'cookies_banner.php'; ?>
+
 						<!-- End Document
 
 		================================================== -->
@@ -319,6 +321,9 @@
 
 		<script type="text/javascript" src="js-plugin/parallax/js/jquery.stellar.min.js"></script>
 
+        <script type="text/javascript" src="js-plugin/jquery-cookie/jquery.cookie-1.4.1.min.js"></script>
+
+
 		<!-- appear -->
 
 		<script type="text/javascript" src="js-plugin/appear/jquery.appear.js"></script>
@@ -338,7 +343,6 @@
 		<!-- Custom  -->
 
 		<script type="text/javascript" src="js/custom.js"></script>
-		<script type="text/javascript" src="js/GogleAnalyticsObject.js"></script>
 
 	</body>
 

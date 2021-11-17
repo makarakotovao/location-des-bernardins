@@ -7,7 +7,7 @@
 				<a href="/"><img src="images/logo/logo.jpg" alt="College des bernardins - Location des espaces" id="logoLocation"/></a> </div>
 				<div class="collapse navbar-collapse navbar-ex1-collapse" id="scrollTarget">
 					<ul class="nav navbar-nav pull-right">
-						<li><a href="index.html#espaces"><i class="glyphicon glyphicon-chevron-left"></i>Retour vers l'accueil</a></li>
+						<li><a href="index.php#espaces"><i class="glyphicon glyphicon-chevron-left"></i>Retour vers l'accueil</a></li>
 						<li class="active"><a href="#espaces"><i class="glyphicon glyphicon-plus"></i>Les espaces</a> </li>
 					</ul>
 				</div>

@@ -169,7 +169,7 @@
 
 							<div class="col-sm-12" data-nekoanim="fadeInRightBig" data-nekodelay="300">
 
-								
+
 <h3>Quelle est l’utilité de cette politique ?</h3>
 
 <p><strong>Nous accordons une grande importance à la confidentialité de vos données qui représentent pour nous un gage de sérieux et de confiance, peu importe qu’il s’agisse de “cookies” ou de données identifiantes.&nbsp;</strong></p>
@@ -249,6 +249,8 @@
 
 		</div>
 
+    <?php include 'cookies_banner.php'; ?>
+
 						<!-- End Document
 
 		================================================== -->
@@ -284,6 +286,8 @@
 		<script type="text/javascript" src="js-plugin/parallax/js/jquery.localscroll-1.2.7-min.js"></script>
 
 		<script type="text/javascript" src="js-plugin/parallax/js/jquery.stellar.min.js"></script>
+        <script type="text/javascript" src="js-plugin/jquery-cookie/jquery.cookie-1.4.1.min.js"></script>
+
 
 		<!-- appear -->
 
@@ -304,7 +308,6 @@
 		<!-- Custom  -->
 
 		<script type="text/javascript" src="js/custom.js"></script>
-		<script type="text/javascript" src="js/GogleAnalyticsObject.js"></script>
 
 	</body>
 

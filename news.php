@@ -62,7 +62,7 @@
             </div>
             <div class="collapse navbar-collapse navbar-ex1-collapse" id="scrollTarget">
               <ul class="nav navbar-nav pull-right">
-                <li><a href="index.html"><i class="glyphicon glyphicon-chevron-left"></i>Retour vers l'accueil</a></li>
+                <li><a href="index.php"><i class="glyphicon glyphicon-chevron-left"></i>Retour vers l'accueil</a></li>
                 <li class="active"><a href="#"><i class="glyphicon glyphicon-plus"></i>News</a> </li>
               </ul>
             </div>
@@ -101,14 +101,14 @@
                 <em class="sous_titre">15-30 novembre 2021</em> </h2>
               <p><em>Tempus fugit – temps et pensée écologique dans les arts</em></p>
               <p>Un foisonnement d’événements artistiques pour questionner, nourrir, expérimenter et redécouvrir la notion du temps, premier volet de la chaire de recherche « Laudato si'. Pour une nouvelle exploration de la terre ».</p>
-				
+
               <div class="col-sm-4 lien-college">
                 <a href="https://www.collegedesbernardins.fr/art-et-culture/festival-des-bernardins-opus-1" class="btn btn-sm" target="_blank"><i class="icon-right-open-mini"></i> Découvrir </a>
               </div>
             </div>
           </div>
           <!-- NEWS BLOC END -->
-			
+
 			<!-- NEWS BLOC BEGIN -->
           <div class="row block_news_nlr" data-nekoanim="fadeInRightBig" data-nekodelay="200">
             <img src="images/college/news/chaire-laudato-si.jpg" class="photo_news" alt="laudato si">
@@ -118,7 +118,7 @@
                 <i class="sous_titre">2021-2023. Lancement public le 23 juin 2021</i>
               </h2>
               <p>
-                L’enjeu crucial des mutations écologiques et sociales est interrogé en profondeur pour nous permettre de transformer nos représentations de la terre et notre manière de nous y inscrire. Il s’agit là d’un enjeu civilisationnel. 
+                L’enjeu crucial des mutations écologiques et sociales est interrogé en profondeur pour nous permettre de transformer nos représentations de la terre et notre manière de nous y inscrire. Il s’agit là d’un enjeu civilisationnel.
               </p>
               <div class="col-sm-4 lien-college">
                 <a href="https://www.collegedesbernardins.fr/recherche/chaire-laudato-si-pour-une-nouvelle-exploration-de-la-terre-2021-2023" class="btn btn-sm" target="_blank"><i class="icon-right-open-mini"></i>Découvrir </a>
@@ -164,8 +164,9 @@
         </div>
       </section>
     </div>
-
+    <?php include 'cookies_banner.php'; ?>
     <!-- End Document
+
     ================================================== -->
 
     <script type="text/javascript" src="js-plugin/respond/respond.min.js"></script>
@@ -182,13 +183,15 @@
     <script type="text/javascript" src="js-plugin/parallax/js/jquery.scrollTo-1.4.3.1-min.js"></script>
     <script type="text/javascript" src="js-plugin/parallax/js/jquery.localscroll-1.2.7-min.js"></script>
     <script type="text/javascript" src="js-plugin/parallax/js/jquery.stellar.min.js"></script>
+    <script type="text/javascript" src="js-plugin/jquery-cookie/jquery.cookie-1.4.1.min.js"></script>
     <!-- appear -->
     <script type="text/javascript" src="js-plugin/appear/jquery.appear.js"></script>
     <script type="text/javascript" src="js-plugin/pageSlide/jquery.pageslide-custom.js"></script>
     <script type="text/javascript" src="js-plugin/jquery.sharrre-1.3.4/jquery.sharrre-1.3.4.min.js"></script>
     <script type="text/javascript" src="js-plugin/owl.carousel/owl-carousel/owl.carousel.min.js"></script>
     <!-- Custom  -->
+    <script type="text/javascript" src="js/rgpd.js"></script>
     <script type="text/javascript" src="js/custom.js"></script>
-    <script type="text/javascript" src="js/GogleAnalyticsObject.js"></script>
+    <script type="text/javascript" src="js/google_analytics.js"></script>
   </body>
 </html>

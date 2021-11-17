@@ -124,9 +124,9 @@
 
 								<ul class="nav navbar-nav pull-right">
 
-									<li><a href="index.html#about"><i class="glyphicon glyphicon-chevron-left"></i>Retour vers l'accueil</a></li>
+									<li><a href="index.php#about"><i class="glyphicon glyphicon-chevron-left"></i>Retour vers l'accueil</a></li>
 
-									<li class="active"><a href="#about"><i class="glyphicon glyphicon-plus"></i>Mentions légales</a> </li>
+									<li class="active"><a href="#about"><i class="glyphicon glyphicon-plus"></i>Mécénat / Parrainage</a> </li>
 
 								</ul>
 
@@ -152,9 +152,9 @@
 
 							<div class="col-xs-12">
 
-								<h1>Mentions légales</h1>
+								<h1>Mécénat / Parrainage</h1>
 
-								<h2 class="subTitle">&nbsp;</h2>
+								<h2 class="subTitle">Un cadre unique pour vos manifestations</h2>
 
 							</div>
 
@@ -162,6 +162,23 @@
 
 
 
+						<div class="row">
+
+							<img src="images/college/photo-mecenat.jpg" id="mecenat" data-nekoanim="fadeInRightBig" data-nekodelay="200">
+
+
+
+							<div class="col-sm-6" data-nekoanim="fadeInRightBig" data-nekodelay="200">
+
+								<h2>Mieux qu’une simple location : un partenariat</h2>
+
+
+
+								<p>Pour donner plus de sens à votre événement et soutenir activement le projet des Bernardins, transformez votre contrat de location en convention de partenariat. Le partenariat peut se traduire de deux manières : le mécénat d’entreprise ou le parrainage (sponsoring). C’est simple et nous sommes à votre disposition pour vous conseiller et vous accompagner dans vos engagements.</p>
+
+							</div>
+
+						</div>
 
 
 
@@ -169,44 +186,35 @@
 
 							<div class="col-sm-12" data-nekoanim="fadeInRightBig" data-nekodelay="300">
 
-<h3>Édition</h3>
-<p>Association du 18/24 Poissy<br />
-Collège des Bernardins<br />
-20 rue de Poissy – 75005 Paris<br />
-Tél : +33 (0)1 53 10 74 44<br />
-N° SIRET : 500 503 842 00014<br />
-	Directeur de la publication : Laurent Landete, Directeur général du Collège des Bernardins</p>
-<h3>Rédaction</h3>
-<p>Collège des Bernardins<br />
-Service communication<br />
-20 rue de Poissy – 75005 Paris<br />
-<a href="mailto:communication@collegedesbernardins.fr">communication@collegedesbernardins.fr</a></p>
+								<h2>Le mécénat d’entreprise</h2>
 
-<h3>Données personnelles</h3>
+								<p>Dans le cadre d’un don de votre entreprise au Collège des Bernardins via la Fondation des Bernardins : vous pouvez bénéficier des mêmes espaces à titre gracieux, au titre des contreparties dans la limite de 25% du montant de votre don, tout en déduisant 60% du montant de votre don de votre impôt sur les sociétés. Votre soutien peut s’exprimer par un don financier, mais aussi un don en nature ou en compétences. </p>
 
-<p>Pour permettre l’utilisation de notre site internet, nous sommes amenés à traiter les données à caractère personnel des visiteurs. Pour obtenir des informations complémentaires à ce sujet, tout visiteur est invité à consulter notre <a class="lient" href="politique-confidentialite.html">Politique de confidentialité</a> et notre Politique “Cookies” qui sont accessibles à tout&nbsp;moment sur <a href="http://www.dipeeo.com" target="_blank">www.dipeeo.com</a>.</p>
+							</div>
 
-<p>Conformément à la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, vous bénéficiez d’un droit d’accès, de rectification ou de suppression des informations qui vous concernent.</p>
+							<div class="col-sm-12" data-nekoanim="fadeInRightBig" data-nekodelay="400">
 
-<p>Si vous souhaitez exercer ce droit et obtenir communication des informations vous concernant, vous pouvez vous adresser à :</p>
+								<h2>Le parrainage ou sponsoring</h2>
 
-<ul>
-	<li>par courrier à l'adresse suivante :<br />
-	Webmestre<br />
-	Collège des Bernardins<br />
-	20 rue de Poissy<br />
-	75005 Paris</li>
-	<li>par email : <a href="mailto:webmaster@collegedesbernardins.fr">webmaster@collegedesbernardins.fr</a></li>
-</ul>
 
-<p>Sauf opposition écrite de votre part, ces informations pourront être communiquées à des tiers dans le strict cadre des missions culturelles et de formation du Collège des Bernardins.</p>
 
-<h3>Droits d’auteurs</h3>
-<p>La reproduction ou représentation, intégrale ou partielle, des pages, des données et de tout autre élément, procédé ou support que ce soit, est interdite et constitue sans autorisation de l’éditeur une contrefaçon.</p>
+								<p>Une autre forme de partenariat possible est le parrainage ou sponsoring. Le parrainage vous ouvre également droit à des contreparties matérielles (jusqu’à 50% du montant du don), mais pas de réduction fiscale particulière.</p>
 
 							</div>
 
 						</div>
+
+						<br><br>
+
+							<!--<div class="col-sm-12" data-nekoanim="fadeInRightBig" data-nekodelay="500">
+
+								<h3>Contactez-nous, nous sommes là pour répondre à vos questions :</h3>
+								<p>Véronique VEZIN</p>
+								<p>Fondation des Bernardins - Partenariats entreprises</p>
+								<p><i class="icon-phone"></i> : 01 53 10 02 74</p>
+								<p><i class="icon-mail"></i> vvezin@fondationdesbernardins.fr</p>
+
+							</div>-->
 
 					</div>
 
@@ -215,6 +223,7 @@ Service communication<br />
 
 
 		</div>
+    <?php include 'cookies_banner.php'; ?>
 
 						<!-- End Document
 
@@ -252,6 +261,8 @@ Service communication<br />
 
 		<script type="text/javascript" src="js-plugin/parallax/js/jquery.stellar.min.js"></script>
 
+		<script type="text/javascript" src="js-plugin/jquery-cookie/jquery.cookie-1.4.1.min.js"></script>
+
 		<!-- appear -->
 
 		<script type="text/javascript" src="js-plugin/appear/jquery.appear.js"></script>
@@ -269,9 +280,9 @@ Service communication<br />
 
 
 		<!-- Custom  -->
-
+		<script type="text/javascript" src="js/rgpd.js"></script>
 		<script type="text/javascript" src="js/custom.js"></script>
-		<script type="text/javascript" src="js/GogleAnalyticsObject.js"></script>
+		<script type="text/javascript" src="js/google_analytics.js"></script>
 
 	</body>
 
