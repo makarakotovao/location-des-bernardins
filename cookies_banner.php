@@ -5,6 +5,9 @@
     'eu-cookie-compliance-banner--categories',
   ); ?>
   <div class="<?php print implode(' ', $classes); ?>">
+    <div class="rgpd-background-img">
+      <p>© Guillaume Poli</p>
+    </div>
     <div class="popup-content info">
       <div id="popup-text">
         <p>Cher visiteur,</p><br>
@@ -18,6 +21,8 @@
       </div>
     </div>
   </div>
+
+  <!-- Settings -->
   <div class="manage-cookies-popup">
     <div>
       <p class="manage-cookies-title">Gestion des cookies</p>

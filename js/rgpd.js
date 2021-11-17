@@ -10,6 +10,7 @@ const cookiesTracked = {
   statistics: [
     '_ga*',
     'gid',
+    '_dc_gtm_*',
     '__utm*'
   ],
   tiers: [
@@ -29,10 +30,17 @@ function setAcceptedCategories(categories) {
   const lifetime = settings.lifetime ? settings.lifetime : 100;
   date.setDate(date.getDate() + lifetime);
   $.cookie(cookieName, categoriesString, { expires: date, path: path, domain: domain });
+
+  if (categories.includes('statistics')) {
+    gaSSDSLoad();
+  }
+
   // Close banner and modal
   $('.manage-cookies-popup').hide();
   $('.eu-cookie-compliance-banner').hide();
+  $('#globalWrapper').removeClass('zone-blur');
   $(document).trigger('changeCookieConsentPreferences', [categories]);
+
 }
 
 // Check if a consent for a category has already been given
@@ -90,6 +98,7 @@ function isAllowed(cookieName) {
 }
 
 function blockCookies() {
+  return true;
   // Load all cookies.
   const cookies = $.cookie();
 
@@ -122,12 +131,13 @@ function blockCookies() {
 
 $(document).ready(function() {
   'use strict';
-
-  if (!hasAgreed()) {
+  if (!hasAgreed("functional")) {
+    $('#globalWrapper').addClass('zone-blur');
     const height = $('#sliding-popup').outerHeight();
-    $('#sliding-popup').show()
-    .css({ bottom: -1 * height });
+    $('#sliding-popup').show().css({ bottom: -1 * height });
     $('#sliding-popup').animate({bottom: 0}, 1000, null);
+  } else {
+    $('#sliding-popup').hide();
   }
 
   setInterval(blockCookies, 5000);
@@ -140,7 +150,7 @@ $(document).ready(function() {
 
   $('.euccp-manage-button').click(onClickManagePreferences);
   $('.manage-cookies-popup-close-button').click(onClickManagePreferences);
-  
+
   // Save preferences
   $('.eu-cookie-compliance-save-preferences-button').click(() => {
     const categories = $("#eu-cookie-compliance-categories input:checkbox:checked").map(function () {
@@ -159,9 +169,17 @@ $(document).ready(function() {
 
   // Decline all
   $('.euccp-disable-all-button').click(() => {
-    const categories = ['functional'];
-    setAcceptedCategories(categories);
+    setAcceptedCategories([]);
   });
+
+  $('.euccp-allow-all-categories-button').click(() => {
+    const managePopup = $('.manage-cookies-popup');
+    const isChecked = $('.euccp-allow-all-categories-button').prop('checked');
+    managePopup.find('#eu-cookie-compliance-categories .eu-cookie-compliance-category').each(function() {
+      $(this).find('input[type=checkbox]:not(:disabled)').prop('checked', isChecked);
+    });
+  });
+
 });
 
 // Listen event cookie consent is changed

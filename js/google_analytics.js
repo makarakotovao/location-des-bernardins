@@ -8,7 +8,7 @@ window.onload = function () {
   // Block if consent not given
   if (hasAgreed !== undefined) {
     if (hasAgreed('statistics')) {
-      gaSSDSLoad("");
+      gaSSDSLoad();
     }
   }
 };
@@ -17,33 +17,14 @@ window.onload = function () {
 
 /* ANALYTICS */
 
-function gaSSDSLoad (acct) {
-  "use strict";  
-  var gaJsHost = (("https:" === document.location.protocol) ? "https://ssl." : "http://www."),
-    pageTracker,
-    s;
+function gaSSDSLoad () {
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)
+  },i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  s = document.createElement('script');
-  s.src = gaJsHost + 'google-analytics.com/ga.js';
-  s.type = 'text/javascript';
-  s.onloadDone = false;
-
-  function init () {
-    pageTracker = _gat._getTracker(acct);
-    pageTracker._trackPageview();
-  }
-
-  s.onload = function () {
-    s.onloadDone = true;
-    init();
-  };
-
-  s.onreadystatechange = function() {
-    if (('loaded' === s.readyState || 'complete' === s.readyState) && !s.onloadDone) {
-      s.onloadDone = true;
-      init();
-    }
-  };
-
-  document.getElementsByTagName('head')[0].appendChild(s);
+  ga('create', 'UA-2780956-5', 'location-des-bernardins.fr');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
 }
