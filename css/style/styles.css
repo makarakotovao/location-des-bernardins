@@ -1037,3 +1037,45 @@ input:checked + .slider:before {
   border-radius: 6px;
   border: 3px solid #f8f1e9;
 }
+
+/* Cookie popin */
+#sliding-popup.sliding-popup-bottom {
+    background: #52094F;
+}
+
+#sliding-popup .popup-content {
+  display: flex;
+  align-items: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#sliding-popup .popup-content #popup-text {
+  float: none;
+  margin: 0;
+}
+
+#sliding-popup .popup-content #popup-text p,
+#sliding-popup .popup-content #popup-text button {
+  font-size: 12px;
+  font-weight: normal;
+  margin-bottom: 0px;
+}
+
+#sliding-popup .popup-content #popup-buttons button {
+  margin-top: 7px;
+}
+
+#sliding-popup .popup-content #popup-buttons {
+  float: none;
+  margin: 0;
+  font-size: 12px;
+}
+
+@media (max-width: 1199px){
+  #sliding-popup .popup-content #popup-text p {
+    font-size: 14px;
+  }
+  #sliding-popup .popup-content #popup-buttons {
+    font-size: 14px;
+}
