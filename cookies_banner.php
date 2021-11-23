@@ -11,7 +11,7 @@
     <div class="popup-content info">
       <div id="popup-text">
         <p>Cher visiteur,</p><br>
-        <p>Le site collegedesbernardins.fr utilise des cookies afin d'améliorer votre expérience de navigation et établir des statistiques d'utilisation. Vous pouvez accepter les cookies ou gérer vos préférences directement sur notre site.</p>
+        <p>Le site location-des-bernardins.fr utilise des cookies afin d'améliorer votre expérience de navigation et établir des statistiques d'utilisation. Vous pouvez accepter les cookies ou gérer vos préférences directement sur notre site.</p>
       </div>
 
       <div id="popup-buttons" class="eu-cookie-compliance-has-categories">
