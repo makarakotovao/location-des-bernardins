@@ -41,7 +41,8 @@
 	<link rel="apple-touch-icon" sizes="144x144" href="images/apple-touch-icon-144x144.png">
 </head>
 
-<section class="slice" id="works" data-nekoanim="fadeInUp" data-nekodelay="100">
+    <div id="globalWrapper" class="localscroll">
+        <section class="slice" id="works" data-nekoanim="fadeInUp" data-nekodelay="100">
 					<div class="container clearfix">
 						<div class="row">
 							<div class="col-sm-12">
@@ -771,6 +772,7 @@
 							</div>
 						</div>
 					</section>
+        </div>
 
 
         <?php include 'cookies_banner.php'; ?>

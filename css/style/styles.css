@@ -914,13 +914,11 @@ input:checked + .slider:before {
   }
 }
 
-@media (min-width: 992px) {
-  .zone-blur {
-    filter: blur(4px);
-    width: 100%;
-    height: 100%;
-    position: fixed;
-  }
+.zone-blur {
+  filter: blur(4px);
+  width: 100%;
+  height: 100%;
+  position: fixed;
 }
 
 /* Mobile version */
