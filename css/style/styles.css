@@ -1078,4 +1078,5 @@ input:checked + .slider:before {
   }
   #sliding-popup .popup-content #popup-buttons {
     font-size: 14px;
+  }
 }
